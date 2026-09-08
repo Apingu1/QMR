@@ -1,0 +1,27 @@
+{
+  "file": "2026 - QMS DATA MDR Log (to be Validated).xlsx",
+  "sheets": [
+    {
+      "name": "Sheet1",
+      "max_row": 43,
+      "max_col": 10,
+      "rows": [
+        {
+          "row": 1,
+          "values": [
+            "MDR Reference",
+            "Date Logged",
+            "Logged by",
+            "QMS Report reference",
+            "Criticality of Incident (Critical/ Major)",
+            "QMS report Completion Date",
+            "Status",
+            "Wet ink copy filed away? (Y/N)",
+            "CAPA Raised?",
+            "Comments"
+          ]
+        }
+      ]
+    }
+  ]
+}

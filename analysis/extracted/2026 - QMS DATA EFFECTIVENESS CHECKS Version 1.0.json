@@ -1,0 +1,723 @@
+{
+  "file": "2026 - QMS DATA EFFECTIVENESS CHECKS Version 1.0.xlsx",
+  "sheets": [
+    {
+      "name": "Change Controls",
+      "max_row": 159,
+      "max_col": 12,
+      "rows": [
+        {
+          "row": 1,
+          "values": [
+            "Spreadsheet no:  ES.CSV.016\nCHANGE CONTROLS\nSpreadsheet Owner: Omair Sattar\nRef. SOP: ES.SOP.052",
+            "",
+            "",
+            "",
+            "QMS DATA EFFECTIVENESS CHECKS\nVersion 1.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 2,
+          "values": [
+            "CC Reference ",
+            "Date CC Raised",
+            "Responsible Person",
+            "Target date",
+            "Effectiveness check action(s)",
+            "Status",
+            "Wet Ink Copy Filed\n(Y/N)",
+            "Date Closed",
+            "Location",
+            "Comments",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 3,
+          "values": [
+            "CC.2026.012",
+            "2026-02-03",
+            "GN",
+            "2026-06-10",
+            "Check to see if we have any rejected batches or deviaitons for the new formulation. ",
+            "Complete",
+            "Y",
+            "2026-06-10",
+            "Closed CC File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 4,
+          "values": [
+            "CC.2026.013",
+            "2026-02-04",
+            "GN",
+            "2026-07-25",
+            "Check to see if we have any rejected batches or deviaitons for the new formulation. ",
+            "Complete",
+            "Y",
+            "2026-07-24",
+            "Closed CC File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 5,
+          "values": [
+            "CC.2026.017",
+            "2026-02-09",
+            "SSP",
+            "2026-09-06",
+            "Check to see if the new clinical needs established on the BMR has been selected approriately during order generation.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 6,
+          "values": [
+            "CC.2026.023",
+            "2026-02-23",
+            "MR",
+            "2026-04-30",
+            "Reintroduction of MEXI3 with 12 months shelf life",
+            "Complete",
+            "Y",
+            "2026-04-30",
+            "Closed CC File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 7,
+          "values": [
+            "CC.2026.024",
+            "2026-02-23",
+            "HK",
+            "2026-06-30",
+            "Check to see if any issues have arise with SBS chambeer post maintenance and calibration",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 8,
+          "values": [
+            "CC.2026.029",
+            "2026-03-09",
+            "AHA",
+            "2026-10-15",
+            "Assess ease of use of new container, if weighing discrepancies have occurred, any deviations have occurred due to the new container",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 9,
+          "values": [
+            "CC.2026.030",
+            "2026-03-10",
+            "GN",
+            "2026-10-09",
+            "Check to see if updated formulations have caused any rejected batches or deviations ",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 10,
+          "values": [
+            "CC.2026.022",
+            "2006-02-23",
+            "HK",
+            "2026-11-30",
+            "Review future midazolam micro results to confirm no issues with validation and results are as expected",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 11,
+          "values": [
+            "CC.2026.064",
+            "2026-06-15",
+            "AHA",
+            "2027-01-01",
+            "Check to see if the powder has resolved supply issues based on batches subsequently manufactured.\n\nCheck to see if orders received have been completed.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 12,
+          "values": [
+            "CC.2026.004",
+            "2026-01-08",
+            "AHA",
+            "2026-12-31",
+            "Check to see if new formulation has created any issues rejected batches and / or deviations",
+            "In-Progress",
+            "y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 13,
+          "values": [
+            "CC.2026.050",
+            "2026-05-05",
+            "AHA",
+            "2026-11-07",
+            "Check to see if introduction of replacement material is suitable and effective via rejected batch + deviation monitoring",
+            "In-Progress",
+            "y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 14,
+          "values": [
+            "CC.2026.058",
+            "2026-05-20",
+            "SSP",
+            "2026-12-17",
+            "Check to see if new process and log book are being utilised and checks are being conducted in timely manner.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 15,
+          "values": [
+            "CC.2026.037",
+            "2026-04-08",
+            "SSP",
+            "2026-12-31",
+            "Check to see appropriate clinical need has been assigned on batches generated.",
+            "In-Progress",
+            "y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 16,
+          "values": [
+            "CC.2026.036",
+            "2026-04-08",
+            "SSP",
+            "2026-12-30",
+            "Check to see appropriate clinical need has been assigned on batches generated.",
+            "In-Progress",
+            "y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 17,
+          "values": [
+            "CC.2026.057",
+            "2026-05-20",
+            "SSP",
+            "2026-12-30",
+            "Check to see if correct clinical needa are being applied to generated batches of this product.",
+            "In-Progress",
+            "y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 18,
+          "values": [
+            "CC.2026.067",
+            "2026-06-23",
+            "SSP",
+            "2027-02-27",
+            "Check to see if correct clinical needa are being applied to generated batches of this product.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 19,
+          "values": [
+            "CC.2026.014",
+            "2026-02-05",
+            "MR",
+            "2026-11-30",
+            "Review log book reviews, review findings and see if deviations have been raised appropriately",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CAPAs",
+      "max_row": 159,
+      "max_col": 12,
+      "rows": [
+        {
+          "row": 1,
+          "values": [
+            "Spreadsheet no:  ES.CSV.016\nCAPAs\nSpreadsheet Owner: Omair Sattar\nRef. SOP: ES.SOP.044",
+            "",
+            "",
+            "",
+            "QMS DATA EFFECTIVENESS CHECKS\nVersion 1.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 2,
+          "values": [
+            "CAPA Reference ",
+            "Date CAPA Raised",
+            "Responsible Person",
+            "Target date",
+            "Effectiveness check action(s)",
+            "Status",
+            "Wet Ink Copy Filed\n(Y/N)",
+            "Date Closed",
+            "Location",
+            "Comments",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 3,
+          "values": [
+            "CAPA.2026.001",
+            "2026-01-02",
+            "SSP",
+            "2026-08-04",
+            "Check to see if we have received and complaints raised and deviations or ejected batches because of foaming of this product or any other product",
+            "Complete",
+            "Y",
+            "2026-08-04",
+            "Closed CAPA File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 4,
+          "values": [
+            "CAPA.2026.002",
+            "2026-01-19",
+            "MA",
+            "2026-05-30",
+            "Review deviation and rejected batch log to identify any recurring issues with material mixups, specially where the root cause is identified as human error or procedure is defficient",
+            "In-Progress",
+            "Y",
+            "2026-05-29",
+            "Closed CAPA File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 5,
+          "values": [
+            "CAPA.2026.003",
+            "2026-01-20",
+            "MR",
+            "2027-01-01",
+            "Check to see is calibration has been planned and executed in a timely manner",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 6,
+          "values": [
+            "CAPA.2026.005",
+            "2026-01-23",
+            "GN",
+            "2026-09-20",
+            "Check to see if any furhter data integrity issues have occurred and if Dispatch have shown any gap in GMP awareness",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 7,
+          "values": [
+            "CAPA.2026.007",
+            "2026-02-02",
+            "MR",
+            "2026-05-27",
+            "Ensure no repeat occurrences\n\nreview staff competency completions ",
+            "In-Progress",
+            "Y",
+            "2026-05-26",
+            "Closed CAPA File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 8,
+          "values": [
+            "CAPA.2026.008",
+            "2026-02-27",
+            "GN",
+            "2026-10-02",
+            "Check to see if repeat incidents occur and can be contributed to not following updated SOPs",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 9,
+          "values": [
+            "CAPA.2026.016",
+            "2026-04-21",
+            "AHA",
+            "2026-09-06",
+            "Check to see if the same type of deviation/GMP complaint has occurred since implementation.\n\nCheck to see if the new process is being adhered to by the BMR generator and if the formulas work.",
+            "Complete",
+            "Y",
+            "2026-09-04",
+            "Closed CAPA File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 10,
+          "values": [
+            "CAPA.2026.011",
+            "2026-04-01",
+            "MR",
+            "2027-07-31",
+            "Review effectiveness of this change in overage amount by reviewing subsequent batches, also review status of process validation. Review subsequent OOS for this product",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 11,
+          "values": [
+            "CAPA.2026.009",
+            "2026-03-13",
+            "HK",
+            "2026-10-30",
+            "",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 12,
+          "values": [
+            "CAPA.2026.010",
+            "2026-03-26",
+            "AHA",
+            "2027-05-31",
+            "Perform mock recall utilising updated process",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 13,
+          "values": [
+            "CAPA.2026.018",
+            "2026-05-11",
+            "MA",
+            "2026-10-31",
+            "Check to see if newly updated procedure has prevented this type of deviation. Review deviations or rejected batches",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 14,
+          "values": [
+            "CAPA.2026.023",
+            "2026-05-19",
+            "AHA",
+            "2027-01-16",
+            "Check to see if updated SOP is being followed and QA independent review is being performed",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 15,
+          "values": [
+            "CAPA.2026.012",
+            "2026-04-16",
+            "AHA",
+            "2027-06-30",
+            "Check to see if new process is being utilised correctly and has prevented recurrence of this deviation",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 16,
+          "values": [
+            "CAPA.2026.014",
+            "2026-04-17",
+            "HK",
+            "2027-01-31",
+            "Check to see if results obtained are as expected and elevated peaks do not occur with addition of added technique.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 17,
+          "values": [
+            "CAPA.2026.024",
+            "2026-05-19",
+            "HK",
+            "2026-09-21",
+            "CHECK TO SEE IF EQUIPMENT RESENTS ANY FURTHER ISSUES",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 18,
+          "values": [
+            "CAPA.2026.013",
+            "2026-04-17",
+            "AHA",
+            "2027-02-28",
+            "Check to see if any incorrect supplier has been assigned to a raw material/excipient label and for repaeat deviations. \n\nCheck to see if updated form format has resloved the issue.",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 19,
+          "values": [
+            "CAPA.2026.028",
+            "2026-07-05",
+            "AHA",
+            "2026-11-12",
+            "Check to see if repeat deviations occur and if new form with list of fridge line goods is being correctly utilised",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 20,
+          "values": [
+            "CAPA.2026.023",
+            "2026-07-30",
+            "HK",
+            "2026-03-08",
+            "Check if there is no water leak in plant room",
+            "In-Progress",
+            "Y",
+            "",
+            "Effectiveness Check File",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deviations",
+      "max_row": 158,
+      "max_col": 12,
+      "rows": [
+        {
+          "row": 1,
+          "values": [
+            "Spreadsheet no:  ES.CSV.016\nDEVIATIONS\nSpreadsheet Owner: Omair Sattar\nRef. SOP: ES.SOP.015",
+            "",
+            "",
+            "",
+            "QMS DATA EFFECTIVENESS CHECKS\nVersion 1.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 2,
+          "values": [
+            "Deviation Reference ",
+            "Date Deviation Raised",
+            "Responsible Person",
+            "Target date",
+            "Effectiveness check action(s)",
+            "Status",
+            "Wet Ink Copy Filed\n(Y/N)",
+            "Date Closed",
+            "Location",
+            "Comments",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
