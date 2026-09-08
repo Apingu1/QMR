@@ -1,0 +1,2823 @@
+[
+  {
+    "slide": 1,
+    "texts": [
+      "Quality Metrics review (QMR)",
+      "Review Period: Apr - Jun (Q2) 2026\n"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 2,
+    "texts": [
+      "QMR\u000bKEY",
+      "Overall QMS Status: 🟢- In control / 🟠- Improvement needed / 🔴- Out of control\nKPI Trend & Assessment level: 🟢- Improving / 🟠- Stable / 🔴- Deteriorating\nClassifications:      - Minor /      - Major /      - Critical\nTarget date adherence:      - Completed within target date /      - Overdue or completed past target date\n\n"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 3,
+    "texts": [
+      "TREND GRAPHS",
+      "DEVIATIONS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟢- Improving "
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q1 (2026)",
+          "Q2 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "8",
+          "13"
+        ],
+        [
+          "Total closed this quarter",
+          "12",
+          "14"
+        ],
+        [
+          "Major/Critical raised",
+          "1",
+          "3"
+        ],
+        [
+          "Major/Critical closed",
+          "2",
+          "2"
+        ],
+        [
+          "Average Closure time",
+          "53 days",
+          "44 days"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "COLUMN_CLUSTERED (51)",
+        "has_title": true,
+        "title": "Deviations vs Total Orders",
+        "series": [
+          {
+            "name": "Total Manufactured + 3rd party +SO Orders",
+            "values": [
+              2964.0,
+              3128.0,
+              2784.0,
+              3250.0,
+              3299.0,
+              2983.0,
+              3272.0,
+              3590.0,
+              3438.0,
+              3866.0,
+              4118.0,
+              3767.0,
+              4346.0
+            ]
+          },
+          {
+            "name": "Deviation Percentage (All)",
+            "values": [
+              0.1349527665317139,
+              0.0959079283887468,
+              0.07183908045977011,
+              0.0923076923076923,
+              0.06062443164595332,
+              0.10056989607777406,
+              0.1528117359413203,
+              0.1392757660167131,
+              0.0,
+              0.0775995861355406,
+              0.2185526954832443,
+              0.053092646668436425,
+              0.04601932811780948
+            ]
+          },
+          {
+            "name": "Deviations affecting daily orders percentage ",
+            "values": [
+              0.033738191632928474,
+              0.0,
+              0.0,
+              0.06153846153846154,
+              0.0,
+              0.0,
+              0.061124694376528114,
+              0.05571030640668524,
+              0.0,
+              0.05173305742369374,
+              0.1699854298203011,
+              0.0,
+              0.02300966405890474
+            ]
+          }
+        ]
+      },
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "Deviations (Last 12 Months)",
+        "series": [
+          {
+            "name": "New Deviations",
+            "values": [
+              4.0,
+              3.0,
+              2.0,
+              3.0,
+              2.0,
+              3.0,
+              5.0,
+              5.0,
+              0.0,
+              3.0,
+              9.0,
+              2.0,
+              2.0
+            ]
+          },
+          {
+            "name": "Closed Deviations",
+            "values": [
+              4.0,
+              6.0,
+              1.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0,
+              6.0,
+              3.0,
+              3.0,
+              3.0,
+              5.0,
+              6.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "texts": [
+      "DEVIATIONS",
+      "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+    ],
+    "tables": [
+      [
+        [
+          "Major & Critical Deviations Closed",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deviation number",
+          "Date raised",
+          "Deviation description",
+          "Classification ",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "DEV.2026.015",
+          "24-Apr-26",
+          "Excessive foaming of Doxycycline Suspension Product",
+          "Major",
+          "29-May-26",
+          "12-May-26"
+        ],
+        [
+          "Dev.2026.020",
+          "19-Jun-26",
+          "Overdue calibration on tinytag used to monitor humidity for tableting bay batches",
+          "Critical",
+          "26-Jun-26",
+          "26-Jun-26"
+        ]
+      ],
+      [
+        [
+          "Major & Critical Deviations Open",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deviation number",
+          "Date raised",
+          "Deviation description",
+          "Classification",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "DEV.2026.021",
+          "25-Jun-26",
+          "Midazolam Hydrochloride raw material used is past its expiry date",
+          "Critical",
+          "09-Jul-26",
+          "Investigation in progress"
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with an Extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q2 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "1",
+          "0",
+          "0",
+          "2",
+          "0",
+          "0"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 5,
+    "texts": [
+      "DEVIATIONS",
+      "IDENTIFIED ROOT CAUSE TRENDS (Q2)"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 6,
+    "texts": [
+      "DEVIATIONS",
+      "TREND \nANALYSIS",
+      "Systemic themes identified: \n\nMultiple equipment fault root causes have been assigned in various deviation areas. \nThe primary theme of these equipment faults seem to be wear and tear of older equipment and prolonged usage\n\nFurther actions: \n\nNo further action is required based on this analysis. Equipment is being systematically replaced where it is warranted. \nAs stated in the table there is no escalation required or regulatory impact "
+    ],
+    "tables": [
+      [
+        [
+          "Trend",
+          "Deviation numbers",
+          "Deviation details (Description, investigation etc)",
+          "Systemic themes identified?",
+          "Escalation required/Regulatory impact?"
+        ],
+        [
+          "Area &\nRoot Cause",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Product Manufacturing\n&\nHuman Error",
+          "DEV.2025.008\nDEV.2025.035\nDEV.2026.013",
+          "Incorrect quantity of base excipient added. 468.8g added instead of 468g. The weighing slip was visually misinterpreted by operators. In addition, SOPs do not allow for minor variances where safe to do so.\nOperator did not wait for volume checker and mistakenly used water for irrigation instead of maltitol. SOP does not state volume checker must witness the volume being made. Also, the operator was unwell during the shift. \nIncorrect weighing scale used to measure 13mg of beclomethasone powder. Operator assumed procedure within SOP took precedence over BMR. Procedure is SOP is also inaccurate and requires updating",
+          "No: Differing staff, all human errors are combined with a procedural deficiency. ",
+          "N/A"
+        ],
+        [
+          "Stability\n&\nHuman Error",
+          "DEV.2025.037\nDEV.2026.008",
+          "",
+          "",
+          ""
+        ],
+        [
+          "QC Testing\n&\nEquipment Fault",
+          "DEV.2025.023\nDEV.2026.018\nDEV.2026.019",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Labelling\n&\nProcedure is deficient",
+          "DEV.2026.014\nDEV.2026.017",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Temperature Monitoring\n&\nProcedure is deficient",
+          "DEV.2025.036\nDEV.2026.020",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Equipment\n&\nEquipment Fault ",
+          "DEV.2025.029\nDEV.2026.002\nDEV.2026.003\nDEV.2026.009\nDEV.2026.012\nDEV.2026.016",
+          "Friability machine failure, motor that drives rotating drum suffered internal damages.\nLoan Comark transmitter gave discrepancy in humidity measurement due to sensor issue.\nAutosampler error in HPLC, robotic arm malfunction due to module defect over time.",
+          "No: differing equipment ",
+          "N/A"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 7,
+    "texts": [
+      "TREND GRAPHS",
+      "GMP COMPLAINTS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟢- Improving "
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q1 (2026)",
+          "Q2 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "5",
+          "1"
+        ],
+        [
+          "Total closed this quarter",
+          "4",
+          "3"
+        ],
+        [
+          "Average Closure time",
+          "38 days",
+          "56 days"
+        ],
+        [
+          "Major/Critical raised",
+          "1",
+          "0"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "GMP Complaints (Last 12 Months)",
+        "series": [
+          {
+            "name": "New Complaints",
+            "values": [
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              2.0,
+              0.0,
+              2.0,
+              3.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Completed Complaints",
+            "values": [
+              1.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              3.0,
+              1.0,
+              0.0,
+              3.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      },
+      {
+        "chart_type": "COLUMN_CLUSTERED (51)",
+        "has_title": true,
+        "title": "Risk Classification Chart",
+        "series": [
+          {
+            "name": "Minor",
+            "values": [
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              3.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          },
+          {
+            "name": "Major",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              2.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Critical",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "texts": [
+      "SIGNIFICANT ITEMS (MAJOR & CRITICAL)",
+      "GMP COMPLAINTS"
+    ],
+    "tables": [
+      [
+        [
+          "Major & Critical GMP Complaints Closed",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "GMP Complaint number",
+          "Date raised",
+          "Complaint description",
+          "Classification ",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "",
+          "",
+          "None to report in Q2, only Minor complaints",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      [
+        [
+          "Major & Critical GMP Complaints Open",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "GMP Complaint number",
+          "Date raised",
+          "Complaint description",
+          "Classification",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "",
+          "",
+          "None to report in Q2, only Minor complaints",
+          "",
+          "",
+          ""
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with an Extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q2 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 9,
+    "texts": [
+      "IDENTIFIED ROOT CAUSE TRENDS (Q2)",
+      "GMP COMPLAINTS"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 10,
+    "texts": [
+      "TREND \nANALYSIS",
+      "Systemic themes identified:\n \n\nFurther actions: \nNo further actions required. No product defect issues or quality concerns.\n",
+      "GMP COMPLAINTS"
+    ],
+    "tables": [
+      [
+        [
+          "Trend",
+          "GMP Complaint numbers",
+          "Complaint details (Description, investigation etc)",
+          "Systemic themes identified?",
+          "Escalation required/Regulatory impact?"
+        ],
+        [
+          "Area &\nRoot Cause",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Product Appearance &\nOther\n",
+          "GMP.CPL.2025.009\nGMP.CPL.2026.003",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Product Efficacy &\nOther\n",
+          "GMP.CPL.2025.008\nGMP.CPL.2026.005",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 11,
+    "texts": [
+      "TREND GRAPHS",
+      "SUPPLIER COMPLAINTS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟠- Stable",
+      "No Major or Critical items to report "
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q1 (2026)",
+          "Q2 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "0",
+          "1"
+        ],
+        [
+          "Total closed this quarter",
+          "0",
+          "0"
+        ],
+        [
+          "Average Closure time",
+          "0",
+          "0"
+        ],
+        [
+          "Major/Critical raised",
+          "0",
+          "0"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "Suppliers Complaints \n(Last 12 Months)",
+        "series": [
+          {
+            "name": "New Complaints",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Completed Complaints",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      },
+      {
+        "chart_type": "COLUMN_CLUSTERED (51)",
+        "has_title": true,
+        "title": "Risk Classification Chart",
+        "series": [
+          {
+            "name": "Minor",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Major",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Critical",
+            "values": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "texts": [
+      "TREND GRAPHS",
+      "OOT/OOS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟠- Stable"
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q1 (2026)",
+          "Q2 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "2",
+          "2"
+        ],
+        [
+          "Total closed this quarter",
+          "2",
+          "1"
+        ],
+        [
+          "Average Closure time",
+          "17 days",
+          "12 days"
+        ],
+        [
+          "True OOS",
+          "1",
+          "1"
+        ],
+        [
+          "True OOT",
+          "0",
+          "0"
+        ],
+        [
+          "Lab Error",
+          "1",
+          "0"
+        ],
+        [
+          "Batch Rejections",
+          "0",
+          "1"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "OOS/OOT (Last 12 Months)",
+        "series": [
+          {
+            "name": "New OOS",
+            "values": [
+              1.0,
+              1.0,
+              1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              2.0,
+              0.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0
+            ]
+          },
+          {
+            "name": "Completed OOS",
+            "values": [
+              1.0,
+              2.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              1.0,
+              1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "texts": [
+      "SIGNIFICANT ITEMS",
+      "OOT/OOS",
+      "PERFORMANCE AND PRODUCT QUALITY ANALYSIS"
+    ],
+    "tables": [
+      [
+        [
+          "OOS/OOT Closed",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "OOS/OOT Number",
+          "Date raised",
+          "OOS/OOT description",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "OOS.2026.001",
+          "14-Jan-26",
+          "High Assay Levomepromazine Maleate 3mg tablets",
+          "16-Feb-26",
+          "16-Feb-26"
+        ],
+        [
+          "OOS.2026.002",
+          "29-Jan-26",
+          "High Assay Levomepromazine Maleate 6mg tablets",
+          "01-Feb-26",
+          "30-Jan-26"
+        ]
+      ],
+      [
+        [
+          "OOS/OOT Open",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "OOS/OOT Number",
+          "Date raised",
+          "OOS/OOT description",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "OOS.2026.004",
+          "01-May-26",
+          "Levomepromazine Maleate 3mg ES181485 PV1 Powder Blend - Assay is Out of specification with result of 106.647%",
+          "31-Jul-26",
+          "Investigation in progress"
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with an extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q1 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "0",
+          "0",
+          "0",
+          "2",
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "Trend Analysis",
+          "No recurring OOS/OOT identified\nNo systemic analytical performance concerns identified"
+        ],
+        [
+          "OOT Specifics",
+          "Stability OOT: One stability OOT identified (Diltiazem 2% Cream); trending monitored with no confirmed OOS at T12, awaiting T18 for final timepoint confirmation. \nFinished Product OOT: 0\nSpecification shifts detected: No"
+        ],
+        [
+          "Regulatory Impact",
+          "No regulatory notification required from any OOS investigations. No OOS results impacted released products."
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 14,
+    "texts": [
+      "TREND GRAPHS",
+      "CAPAs",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟠- Stable"
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q4 (2025)",
+          "Q1 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "7",
+          "10"
+        ],
+        [
+          "Total closed this quarter",
+          "10",
+          "9"
+        ],
+        [
+          "Major/Critical raised",
+          "4",
+          "3"
+        ],
+        [
+          "Major/Critical closed",
+          "6",
+          "5"
+        ]
+      ],
+      [
+        [
+          "Source of All CAPAs (Last 12 Months)",
+          "CAPA Quantity raised"
+        ],
+        [
+          "Deviations",
+          "29"
+        ],
+        [
+          "Complaints",
+          "2"
+        ],
+        [
+          "Audits",
+          "7"
+        ],
+        [
+          "OOS/OOT",
+          "2"
+        ],
+        [
+          "Complaints Against Suppliers/Outsourced Activity Providers (OAPs)",
+          "1"
+        ],
+        [
+          "Effectiveness check follow-up",
+          "3"
+        ],
+        [
+          "Other",
+          "3"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "CAPAs (Last 12 Months)",
+        "series": [
+          {
+            "name": "New CAPAs",
+            "values": [
+              5.0,
+              2.0,
+              7.0,
+              10.0,
+              7.0,
+              0.0,
+              2.0,
+              3.0,
+              2.0,
+              2.0,
+              7.0,
+              1.0,
+              2.0
+            ]
+          },
+          {
+            "name": "Completed CAPAs",
+            "values": [
+              1.0,
+              2.0,
+              2.0,
+              3.0,
+              3.0,
+              5.0,
+              6.0,
+              4.0,
+              3.0,
+              3.0,
+              1.0,
+              6.0,
+              2.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "texts": [
+      "CAPAs",
+      "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+    ],
+    "tables": [
+      [
+        [
+          "Major & Critical CAPAs Closed",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "CAPA number",
+          "Date raised",
+          "CAPA description",
+          "Classification ",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "CAPA.2025.007",
+          "10-Mar-25",
+          "DEV.2024.013 - Gap analysis on the cleaning validation of Haloperidol",
+          "Critical",
+          "31-Mar-26",
+          "31-Mar-26"
+        ],
+        [
+          "CAPA.2025.020",
+          "02-Jun-25",
+          "Dev.2025.017 –  Rejected batch investigation identified a deficiency in the customer enquiries process with regards to R&D trials",
+          "Major",
+          "27-Feb-26",
+          "27-Feb-26"
+        ],
+        [
+          "CAPA.2025.040",
+          "23-Sep-25",
+          "SI.25.TRANS1 – Transport Audit CAPA",
+          "Major",
+          "28-Feb-26",
+          "27-Feb-26"
+        ],
+        [
+          "CAPA.2026.001",
+          "02-Jan-26",
+          "DEV.2025.039 - Batch of duloxetine rejected due to excessive foaming",
+          "Major",
+          "05-Feb-26",
+          "03-Feb-26"
+        ],
+        [
+          "CAPA.2026.007",
+          "28-Jan-26",
+          "DEV.2026.004 - Quetiapine Oral Suspensions Double strength supplied / REC.2026.001",
+          "Critical",
+          "28-Feb-26",
+          "27-Feb-26"
+        ]
+      ],
+      [
+        [
+          "Major & Critical CAPAs Open",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "CAPA number",
+          "Date raised",
+          "CAPA description",
+          "Classification",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "CAPA.2025.047",
+          "29-Dec-25",
+          "Production Internal Audit",
+          "Major",
+          "31-May-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CAPA.2026.004",
+          "22-Jan-26",
+          "Mock Inspection CAPA",
+          "Major",
+          "31-Jul-26",
+          "Actions Outstanding"
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q1 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "2",
+          "0",
+          "0",
+          "5",
+          "0",
+          "2"
+        ]
+      ],
+      [
+        [
+          "Completed Effectiveness Checks (Q1 2026)",
+          "Passed",
+          "Failed",
+          "Do failures require follow-up?"
+        ],
+        [
+          "9",
+          "9",
+          "0",
+          "No failures to report!"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 16,
+    "texts": [
+      "TREND GRAPHS",
+      "CHANGE CONTROLS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟠- Stable"
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q4 (2025)",
+          "Q1 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "36",
+          "35"
+        ],
+        [
+          "Total closed this quarter",
+          "23",
+          "23"
+        ],
+        [
+          "Major/Critical raised",
+          "9",
+          "12"
+        ],
+        [
+          "Major/Critical closed",
+          "1",
+          "2"
+        ]
+      ],
+      [
+        [
+          "Source of All CCs (Last 12 Months)",
+          "CC Quantity raised"
+        ],
+        [
+          "Process/Manufacturing changes",
+          "4"
+        ],
+        [
+          "Documentation/SOP Changes",
+          "8"
+        ],
+        [
+          "Equipment/Facility Changes",
+          "11"
+        ],
+        [
+          "Material & Supplier Changes",
+          "73"
+        ],
+        [
+          "Regulatory driven Changes",
+          "3"
+        ],
+        [
+          "Other",
+          "9"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "Change Controls (Last 12 Months)",
+        "series": [
+          {
+            "name": "New Change Controls",
+            "values": [
+              3.0,
+              8.0,
+              7.0,
+              12.0,
+              4.0,
+              7.0,
+              7.0,
+              16.0,
+              8.0,
+              12.0,
+              11.0,
+              14.0,
+              10.0
+            ]
+          },
+          {
+            "name": "Completed Change Controls",
+            "values": [
+              4.0,
+              5.0,
+              4.0,
+              9.0,
+              10.0,
+              9.0,
+              7.0,
+              9.0,
+              10.0,
+              4.0,
+              9.0,
+              8.0,
+              6.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 17,
+    "texts": [
+      "SIGNIFICANT ITEMS (MAJOR & CRITICAL)",
+      "CHANGE CONTROLS"
+    ],
+    "tables": [
+      [
+        [
+          "Major & Critical Change Controls  Closed",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Change Control number",
+          "Date raised",
+          "Change Control  description",
+          "Classification ",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "CC.2025.070",
+          "28-OCT-25",
+          "Update to scientific rationale process",
+          "Major",
+          "31-Jan-26",
+          "30-Jan-26"
+        ],
+        [
+          "CC.2025.076",
+          "05-NOV-25",
+          "Introduction of new friability machine",
+          "Major",
+          "31-Mar-26",
+          "23-Mar-26"
+        ]
+      ],
+      [
+        [
+          "Major & Critical Change Controls Open",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Change Control number",
+          "Date raised",
+          "Change Control  description",
+          "Classification",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "CC.2024.028",
+          "20-May-24",
+          "Update of Deviation and complaint process",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2024.046",
+          "01-Oct-24",
+          "Implementation of BC for wholesale activity",
+          "Major",
+          "31-Aug-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2025.062",
+          "21-Oct-25",
+          "Introduction of new Stability Chamber",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2025.079",
+          "24-Nov-25",
+          "Introduction of Levomepromazine Maleate 3mg tablets",
+          "Major",
+          "30-Oct-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.004",
+          "08-Jan-26",
+          "Trihexyphenidyl Suspension formulation update",
+          "Major",
+          "30-Apr-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.006",
+          "13-Jan-26",
+          "Introduction of ribbon blender",
+          "Major",
+          "30-Nov-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.007",
+          "13-Jan-26",
+          "Introduction of Oscillating Granulator",
+          "Major",
+          "30-Nov-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.011",
+          "30-Jan-26",
+          "Introduction of Metal detector",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.014",
+          "05-Feb-26",
+          "Introduction of Logbook review procedure",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.016",
+          "06-Feb-26",
+          "Material Hazard & cleanability assessment process",
+          "Major",
+          "30-Apr-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.017",
+          "09-Feb-26",
+          "MA provided to Tolterodine ",
+          "Major",
+          "30-May-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.025",
+          "26-Feb-26",
+          "BMR Updates",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ],
+        [
+          "CC.2026.031",
+          "11-Mar-26",
+          "Validation of QC spreadsheets used for batch release ",
+          "Major",
+          "30-Jun-26",
+          "Actions Outstanding"
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with an Extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q1 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "13",
+          "2",
+          "0",
+          "2",
+          "0",
+          "1"
+        ]
+      ],
+      [
+        [
+          "Completed Effectiveness Checks (Q1 2026)",
+          "Passed",
+          "Failed",
+          "Do failures require follow-up?"
+        ],
+        [
+          "7",
+          "7",
+          "0",
+          "No failures to report!"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 18,
+    "texts": [
+      "TREND GRAPHS",
+      "RISK ASSESSMENTS",
+      "KPI Summary",
+      "KPI & Trend Assessment: \n\n🟠- Stable"
+    ],
+    "tables": [
+      [
+        [
+          "KPI ",
+          "Q4 (2025)",
+          "Q1 (2026)"
+        ],
+        [
+          "Total raised this quarter",
+          "3",
+          "12"
+        ],
+        [
+          "Total closed this quarter",
+          "5",
+          "4"
+        ],
+        [
+          "Major/Critical raised",
+          "1",
+          "8"
+        ],
+        [
+          "Major/Critical closed",
+          "5",
+          "4"
+        ]
+      ],
+      [
+        [
+          "Source of All RAs (Last 12 Months)",
+          "RA Quantity raised"
+        ],
+        [
+          "Change controls",
+          "16"
+        ],
+        [
+          "Inspection findings",
+          "3"
+        ],
+        [
+          "Material Quality Risk (Expiry Extension)",
+          "3"
+        ],
+        [
+          "Material Quality Risk (Temperature Excursion)",
+          "1"
+        ],
+        [
+          "Other",
+          "3"
+        ]
+      ]
+    ],
+    "charts": [
+      {
+        "chart_type": "LINE_MARKERS (65)",
+        "has_title": true,
+        "title": "Risk Assessments (Last 12 Months)",
+        "series": [
+          {
+            "name": "New RAs",
+            "values": [
+              1.0,
+              0.0,
+              2.0,
+              3.0,
+              2.0,
+              0.0,
+              2.0,
+              1.0,
+              2.0,
+              0.0,
+              5.0,
+              4.0,
+              3.0
+            ]
+          },
+          {
+            "name": "Completed RAs",
+            "values": [
+              1.0,
+              1.0,
+              0.0,
+              0.0,
+              2.0,
+              1.0,
+              0.0,
+              1.0,
+              2.0,
+              2.0,
+              1.0,
+              1.0,
+              2.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 19,
+    "texts": [
+      "SIGNIFICANT ITEMS (MAJOR & CRITICAL)",
+      "RISK ASSESSMENTS"
+    ],
+    "tables": [
+      [
+        [
+          "Major & Critical Risk Assessments Closed",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Risk Assessment number",
+          "Date raised",
+          "Risk Assessment description",
+          "Classification ",
+          "Target date",
+          "Completion date"
+        ],
+        [
+          "Risk.2025.012",
+          "04-Nov-25",
+          "Introduction of new stability chamber and impact on current stability samples",
+          "Critical",
+          "26-Mar-26",
+          "19-Mar-26"
+        ],
+        [
+          "Risk.2026.004",
+          "27-Jan-26",
+          "Patient risk of Defective medication supply ",
+          "Critical",
+          "03-Feb-26",
+          "29-Jan-26"
+        ],
+        [
+          "Risk.2026.009",
+          "26-Feb-26",
+          "To extend Eaststone Expiry Date of Capsule Shell White",
+          "Major",
+          "20-Mar-26",
+          "18-Mar-26"
+        ]
+      ],
+      [
+        [
+          "Major & Critical Risk Assessments Open",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Risk Assessment number",
+          "Date raised",
+          "Risk Assessment description",
+          "Classification",
+          "Target date",
+          "Reason still open"
+        ],
+        [
+          "Risk.2026.001",
+          "13-Jan-26",
+          "Introduction of Ribbon Blender",
+          "Major",
+          "30-Nov-26",
+          "Actions Outstanding"
+        ],
+        [
+          "Risk.2026.002",
+          "13-Jan-26",
+          "Introduction of Oscillating Granulator",
+          "Major",
+          "30-Nov-26",
+          "Actions Outstanding"
+        ],
+        [
+          "Risk.2026.005",
+          "30-Jan-26",
+          "Introduction of Metal detector",
+          "Major",
+          "31-jul-26",
+          "Actions Outstanding"
+        ],
+        [
+          "Risk.2026.006",
+          "06-Feb-26",
+          "Material Toxicity Assessment Matrix update",
+          "Critical",
+          "30-Apr-26",
+          "Actions Outstanding"
+        ],
+        [
+          "Risk.2026.008",
+          "23-Feb-26",
+          "Introduction of new Laboratory (ALS)",
+          "Major",
+          "31-May-26",
+          "Actions Outstanding"
+        ],
+        [
+          "Risk.2026.010",
+          "12-Mar-26",
+          "To perform validation of in-use unvalidated spreadsheets",
+          "Major",
+          "17-Jun-26",
+          "Actions Outstanding"
+        ]
+      ],
+      [
+        [
+          "Currently Open ",
+          "Open with an Extension",
+          "Currently open & overdue at the end of quarter",
+          "Closed (Q1 2026)",
+          "Closed after target date",
+          "Closed after extension"
+        ],
+        [
+          "6",
+          "0",
+          "0",
+          "3",
+          "0",
+          "0"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 20,
+    "texts": [
+      "RECALLS",
+      "QUETIAPINE Recall Summary, outcome & impact",
+      "Summary of all recalls (Q1)",
+      "Recall Outcome & Key learning: \nAll affected product was successfully traced and reconciled.\nNo loss of product accountability was identified.\nRecall objectives were achieved within the required timeframe.\nLimitations within BC regarding tracing product distribution and generating reconciliation data. \nManual investigation and additional resource effort to identify product destination and complete reconciliation. "
+    ],
+    "tables": [
+      [
+        [
+          "Date Issued",
+          "Classification",
+          "Product Name & Strength",
+          "Manufacturer",
+          "DMRC Recall number ",
+          "Reason for recall",
+          "Date Closed "
+        ],
+        [
+          "27-Jan-26",
+          "Class 1",
+          "Quetiapine Oral Suspension (All strengths)",
+          "Eaststone",
+          "DMRC-38317654",
+          "Incorrect Strength of API in formulations",
+          "27FEB26"
+        ],
+        [
+          "13-Feb-26",
+          "Class 2",
+          "Melatonin 1mg/ml Oral Solution (Kidnaps)",
+          "Sterling Pharmaceuticals",
+          "DMRC-38487919",
+          "OOS in stability Batches",
+          "20MAR26"
+        ]
+      ],
+      [
+        [
+          "Activity",
+          "Outcome"
+        ],
+        [
+          "Recall Type (Mock/Genuine)",
+          "Genuine"
+        ],
+        [
+          "Recall Performed",
+          "Yes"
+        ],
+        [
+          "Traceability Achieved",
+          "100%"
+        ],
+        [
+          "Product Reconciliation Achieved",
+          "100%"
+        ],
+        [
+          "Completion Time",
+          "30 days"
+        ],
+        [
+          "Improvement Opportunities Identified",
+          "Yes"
+        ]
+      ],
+      [
+        [
+          "Business & Compliance Impact",
+          ""
+        ],
+        [
+          "Observation",
+          "Impact"
+        ],
+        [
+          "Manual traceability activities required",
+          "Increased recall duration"
+        ],
+        [
+          "Limited reporting functionality",
+          "Reduced efficiency of reconciliation"
+        ],
+        [
+          "Additional QA and Operations resource required",
+          "Increased workload during recall"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 21,
+    "texts": [
+      "RETURNS & REJECTED BATCHES",
+      "Product Returns Summary",
+      "Rejected Batches Summary"
+    ],
+    "tables": [
+      [
+        [
+          "Investigation Outcomes",
+          ""
+        ],
+        [
+          "Return Reason",
+          "Outcome"
+        ],
+        [
+          "Black specks observed in product",
+          "Complaint not confirmed following investigation. Returned sample inspected and no black specks identified."
+        ],
+        [
+          "Product considered \"too runny\"",
+          "Product met approved specification. Investigation concluded the reported characteristic was consistent with the normal properties of the product."
+        ]
+      ],
+      [
+        [
+          "Return Activity",
+          ""
+        ],
+        [
+          "Metric",
+          "Quarter Total"
+        ],
+        [
+          "Total Product Returns Received",
+          "2"
+        ],
+        [
+          "Complaint returns",
+          "2"
+        ],
+        [
+          "Courier damage returns",
+          "0"
+        ],
+        [
+          "Investigations Completed",
+          "2"
+        ],
+        [
+          "Confirmed Product Defects",
+          "0"
+        ],
+        [
+          "Open Investigations",
+          "0"
+        ],
+        [
+          "CAPAs Raised",
+          "0"
+        ]
+      ],
+      [
+        [
+          "Management Conclusion"
+        ],
+        [
+          "No product quality defects attributable to Eaststone were identified. No recurring trends or systemic issues were observed and no CAPAs were required."
+        ]
+      ],
+      [
+        [
+          "Rejected Batch Activity",
+          ""
+        ],
+        [
+          "Metric",
+          "Quarter Total"
+        ],
+        [
+          "Total Rejected batches",
+          "1"
+        ],
+        [
+          "Manufacturing rejected batches",
+          "0"
+        ],
+        [
+          "OOS rejected batches",
+          "1"
+        ],
+        [
+          "Open Investigations",
+          "0"
+        ],
+        [
+          "CAPAs raised",
+          "1"
+        ]
+      ],
+      [
+        [
+          "Investigation Outcomes",
+          ""
+        ],
+        [
+          "Reject  Reason",
+          "Outcome"
+        ],
+        [
+          "High Assay observed during QC testing",
+          "Non-optimised manufacturing parameters (excessive mixing time and excessive API overage) adversely affected blend homogeneity and assay consistency, resulting in increased variability.\n\nHypothesis testing confirmed 5-minute mixing time as optimal. "
+        ]
+      ],
+      [
+        [
+          "Management Conclusion"
+        ],
+        [
+          "Correct root cause determined. CAPA implemented. "
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 22,
+    "texts": [
+      "CONTROLLED DOCUMENTS"
+    ],
+    "tables": [
+      [
+        [
+          "SOP number",
+          "Version",
+          "Title",
+          "Issue Date:",
+          "Effective Date",
+          "Review Date",
+          "RP",
+          "QA RP",
+          "Associated Documents/ Comments"
+        ],
+        [
+          "ES.SOP.177",
+          "V04",
+          "New Account Opening Process",
+          "08-Aug-22",
+          "08-Aug-22",
+          "08-Aug-24",
+          "FINANCE",
+          "AHA",
+          "To be updated with BC additions (NAD)"
+        ],
+        [
+          "ES.SOP.176",
+          "V03",
+          "Credit Control",
+          "16-Mar-23",
+          "23-Mar-23",
+          "23-Mar-25",
+          "FINANCE",
+          "AHA",
+          "To be converted to HR document"
+        ],
+        [
+          "ES.SOP.050",
+          "V08",
+          "Operation, Calibration and Maintenance of the Jenway 3520 pH Meter",
+          "13-Mar-24",
+          "20-Mar-24",
+          "20-Mar-26",
+          "QC",
+          "AHA",
+          ""
+        ],
+        [
+          "ES.SOP.024",
+          "V10",
+          "Generating Certificates of Analysis",
+          "27-Mar-24",
+          "27-Mar-24",
+          "27-Mar-26",
+          "QC",
+          "AHA",
+          ""
+        ],
+        [
+          "ES.SOP.206",
+          "V02",
+          "RAW MATERIAL/EXCIPIENT PACKDOWN PROCESS",
+          "27-Mar-24",
+          "27-Mar-24",
+          "27-Mar-26",
+          "PRODUCTION, QC & R&D",
+          "AHA",
+          "Re-issue , no changes required"
+        ]
+      ],
+      [
+        [
+          "FORM number",
+          "Version",
+          "Title",
+          "Issue Date:",
+          "Effective Date",
+          "Review Date",
+          "RP",
+          "QA RP",
+          "Associated Documents/ Comments"
+        ],
+        [
+          "ES.SOP.231.F01",
+          "V03",
+          "SPREADSHEET VALIDATION PROTOCOL TEMPLATE",
+          "04-Aug-23",
+          "11-Aug-23",
+          "11-Aug-25",
+          "QA",
+          "AM",
+          "CC.2026.031"
+        ],
+        [
+          "ES.SOP.050.F01",
+          "V04",
+          "JENWAY 3520 pH METER CALIBRATION",
+          "21-Mar-24",
+          "28-Mar-24",
+          "28-Mar-26",
+          "QC",
+          "AHA",
+          ""
+        ]
+      ],
+      [
+        [
+          "ED number",
+          "Version",
+          "Title",
+          "Issue Date:",
+          "Effective Date",
+          "Review Date",
+          "RP",
+          "QA RP",
+          "Associated Documents/ Comments"
+        ],
+        [
+          "ES.ED.VMP.001",
+          "V02",
+          "Validation Master Plan",
+          "24-Jan-24",
+          "24-Jan-24",
+          "24-Jan-26",
+          "QA",
+          "SP",
+          "CAPA.2026.004"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 23,
+    "texts": [
+      "ENVIRONMENTAL MONITORING"
+    ],
+    "tables": [
+      [
+        [
+          "Year",
+          "2026",
+          "January",
+          "",
+          "February",
+          "",
+          "March",
+          ""
+        ],
+        [
+          "Settle Plates:",
+          "Plates Location",
+          "TSA (Bacteria)",
+          "SDA (Mould OR Fungi)",
+          "TSA (Bacteria)",
+          "SDA (Mould OR Fungi)",
+          "TSA (Bacteria)",
+          "SDA (Mould OR Fungi)"
+        ],
+        [
+          "1",
+          "Tableting Room ",
+          "3",
+          "0",
+          "1",
+          "0",
+          "2",
+          "0"
+        ],
+        [
+          "2",
+          "Bay 1",
+          "12",
+          "0",
+          "2",
+          "0",
+          "2",
+          "0"
+        ],
+        [
+          "3",
+          "Bay 2",
+          "34",
+          "1",
+          "1",
+          "0",
+          "31",
+          "1"
+        ],
+        [
+          "4",
+          "Bay 3",
+          "7",
+          "0",
+          "8",
+          "0",
+          "2",
+          "0"
+        ],
+        [
+          "5",
+          "Bay 4",
+          "13",
+          "3",
+          "5",
+          "0",
+          "4",
+          "0"
+        ],
+        [
+          "6",
+          "Bay 5",
+          "3",
+          "0",
+          "1",
+          "0",
+          "2",
+          "0"
+        ],
+        [
+          "7",
+          "Bay 6 (BMA)",
+          "12",
+          "0",
+          "5",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "8",
+          "HP Bay (LHS of LAF Cabinet)",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "9",
+          "HP Washroom (LHS)",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "10",
+          "Change Room",
+          "49",
+          "0",
+          "53",
+          "3",
+          "40",
+          "0"
+        ]
+      ],
+      [
+        [
+          "Year",
+          "2026",
+          "February",
+          ""
+        ],
+        [
+          "Contact Plates:",
+          "Area",
+          "Contact Plates  TSA (Bacteria)",
+          "Contact Plates  SDA (Mould OR Fungi)"
+        ],
+        [
+          "1",
+          "Tableting Room ",
+          "0",
+          "0"
+        ],
+        [
+          "2",
+          "Bay 1",
+          "2",
+          "0"
+        ],
+        [
+          "3",
+          "Bay 2",
+          "0",
+          "0"
+        ],
+        [
+          "4",
+          "Bay 3",
+          "0",
+          "0"
+        ],
+        [
+          "5",
+          "Bay 4",
+          "0",
+          "0"
+        ],
+        [
+          "6",
+          "Bay 5",
+          "0",
+          "0"
+        ],
+        [
+          "7",
+          "Bay 6 (BMA)",
+          "0",
+          "0"
+        ],
+        [
+          "8",
+          "HP Bay (Centre of LAF Cabinet)",
+          "0",
+          "0"
+        ],
+        [
+          "9",
+          "HP Washroom (LHS)",
+          "0",
+          "0"
+        ],
+        [
+          "10",
+          "Change Room",
+          "0",
+          "0"
+        ]
+      ],
+      [
+        [
+          "Key Observations",
+          "Significant improvement observed in the Change room. \nResults demonstrate change room OOS issue has been nullified. \nAll results in Q1 below Alert and Action limits. "
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 24,
+    "texts": [
+      "VALIDATION"
+    ],
+    "tables": [
+      [
+        [
+          "Cleaning Validation",
+          "Beclomethasone\nCleaning validation has not been started.\nCleaning validation expected January  - March 2026\nMaterial Hazard assessments\nCurrently Ongoing to determine new worst-case API. This will then be subject to CV. "
+        ],
+        [
+          "Equipment Validation\n",
+          "Friability Machine\nCompleted and in use\nStability Chamber\nIOPQ completed by supplier. Validation to be verified before use. \nBMR Colour label printer\nCompleted and in use"
+        ],
+        [
+          "Process Validation",
+          "Nothing to report"
+        ],
+        [
+          "Spreadsheet Validation",
+          "QC Spreadsheets\nValidation in progress and being completed based on risk. "
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 25,
+    "texts": [
+      "AUDITS"
+    ],
+    "tables": [
+      [
+        [
+          "Raw Materials Audit"
+        ],
+        [
+          "Inspection Findings: \n\nRaw materials are given a fixed 2-year shelf life from receipt (unless shorter is stated by the manufacturer), without documented scientific justification, stability data, or formal risk assessment covering storage, repackaging, or handling conditions.\n\nHigher-risk manufacturers may not receive enhanced assurance activities (e.g. audits or additional testing), reducing confidence in GMP compliance and supply chain risk control.\n\nCertain higher-risk excipients linked to historical DEG/EG contamination (e.g. glycerol, propylene glycol, low molecular weight PEGs) are used on site, with no documented risk assessment or enhanced supplier/incoming verification strategy in place."
+        ]
+      ],
+      [
+        [
+          "Supplier Qualification Audit"
+        ],
+        [
+          "Inspection Findings: \n\nManufacturer qualification and supply chain assurance require strengthening. Qualification activities focus on distributors/wholesalers rather than the actual manufacturing sites. \n\nSuppliers operating outside the UK/EEA are identified as higher risk; however, additional qualification activities, equivalence assessments and enhanced controls are not clearly defined or consistently applied.\n\nSupplier requalification frequency does not align with the current SOP. SOP 011 requires annual reassessment; however, suppliers are currently reassessed every two years."
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 26,
+    "texts": [
+      "REGULATORY CHANGES"
+    ],
+    "tables": [
+      [
+        [
+          "Recall Guidance Update"
+        ],
+        [
+          "The updated guide to defective medicinal products was published by MHRA on the 16th February 2026.\n\nThe following are the relevant updates that will be integrated into our procedures: \n\nContact details specified between normal working hours and out of hours. \nInitial impact assessments now expected to include proposed market action/containment (recall, quarantine or other mitigating containment actions)\nGuidance now stipulates that all Class 1 Medicines Recalls, will be issued as National Patient Safety Alerts. \n"
+        ]
+      ],
+      [
+        [
+          "APSM Q1"
+        ],
+        [
+          "APSM – Key Points (25th February 2026)\n\nHome Office CD licensing: The Home Office has recruited more licensing staff and is considering improved applicant updates. The Home Office identified maintaining valid DBS clearance throughout the application process as a major cause of licensing delays.\n\nCBPM policy: APSM raised the need for clearer MHRA policy and guidance for cannabis-based medicinal products.\n \nMHRA engagement: APSM can submit agenda items to raise practical issues affecting CBPMs, Schedule 1 imports, specials manufacturing or regulatory guidance for the June 2026 MHRA Partnership Group meeting.\n"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 27,
+    "texts": [
+      "CBPM updates JAN – MAR 26",
+      "10 February 2026: Home Office Schedule 1 licence variation application submitted. \n17 March 2026: Home Office compliance visit completed successfully. The application is progressing positively, with licence approval expected. Focus is now moving towards MHRA inspection readiness. \nAttendance booked for the Cannabis Europa Conference on 26–27 May 2026.\n\n"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 28,
+    "texts": [
+      "Production Capacity Utilisation",
+      "Key take aways from Q1:\n\nNumbers do not reflect stock batches on a given day (not released same day).\n\nProduction continues to operate at authorised manufacturing capacity.\n\nReduces the likelihood of manufacturing deviations as there is less pressure on GMP systems\n\nReflects mixed production scheduling i.e. between stock batch manufacturing and bespoke product manufacturing\n\nImprovement for Q2: To include all Stock batches generated for the given day. This will provide a more accurate reflection of production capacity. "
+    ],
+    "tables": [
+      [
+        [
+          "January",
+          "",
+          "",
+          "February",
+          "",
+          "",
+          "March",
+          "",
+          ""
+        ],
+        [
+          "Date",
+          "Planned Batches",
+          "Batches Released",
+          "Date",
+          "Planned Batches",
+          "Batches Released",
+          "Date",
+          "Planned Batches",
+          "Batches Released"
+        ],
+        [
+          "02-Jan-26",
+          "72",
+          "41",
+          "02-Feb-26",
+          "58",
+          "50",
+          "02-Mar-26",
+          "67",
+          "60"
+        ],
+        [
+          "05-Jan-26",
+          "72",
+          "72",
+          "03-Feb-26",
+          "56",
+          "56",
+          "03-Mar-26",
+          "62",
+          "53"
+        ],
+        [
+          "06-Jan-26",
+          "62",
+          "59",
+          "04-Feb-26",
+          "48",
+          "42",
+          "04-Mar-26",
+          "62",
+          "60"
+        ],
+        [
+          "07-Jan-26",
+          "67",
+          "66",
+          "05-Feb-26",
+          "57",
+          "56",
+          "05-Mar-26",
+          "51",
+          "50"
+        ],
+        [
+          "08-Jan-26",
+          "62",
+          "56",
+          "06-Feb-26",
+          "53",
+          "36",
+          "06-Mar-26",
+          "58",
+          "45"
+        ],
+        [
+          "09-Jan-26",
+          "58",
+          "44",
+          "09-Feb-26",
+          "56",
+          "56",
+          "09-Mar-26",
+          "68",
+          "56"
+        ],
+        [
+          "12-Jan-26",
+          "67",
+          "57",
+          "10-Feb-26",
+          "58",
+          "54",
+          "10-Mar-26",
+          "56",
+          "55"
+        ],
+        [
+          "13-Jan-26",
+          "67",
+          "57",
+          "11-Feb-26",
+          "57",
+          "49",
+          "11-Mar-26",
+          "56",
+          "55"
+        ],
+        [
+          "14-Jan-26",
+          "62",
+          "45",
+          "12-Feb-26",
+          "57",
+          "56",
+          "12-Mar-26",
+          "57",
+          "51"
+        ],
+        [
+          "15-Jan-26",
+          "57",
+          "44",
+          "13-Feb-26",
+          "48",
+          "41",
+          "13-Mar-26",
+          "57",
+          "46"
+        ],
+        [
+          "16-Jan-26",
+          "58",
+          "44",
+          "16-Feb-26",
+          "67",
+          "53",
+          "16-Mar-26",
+          "68",
+          "54"
+        ],
+        [
+          "19-Jan-26",
+          "57",
+          "56",
+          "17-Feb-26",
+          "57",
+          "43",
+          "17-Mar-26",
+          "58",
+          "54"
+        ],
+        [
+          "20-Jan-26",
+          "54",
+          "52",
+          "18-Feb-26",
+          "53",
+          "44",
+          "18-Mar-26",
+          "56",
+          "56"
+        ],
+        [
+          "21-Jan-26",
+          "57",
+          "35",
+          "19-Feb-26",
+          "58",
+          "35",
+          "19-Mar-26",
+          "56",
+          "55"
+        ],
+        [
+          "22-Jan-26",
+          "57",
+          "40",
+          "20-Feb-26",
+          "48",
+          "45",
+          "20-Mar-26",
+          "53",
+          "44"
+        ],
+        [
+          "23-Jan-26",
+          "56",
+          "47",
+          "23-Feb-26",
+          "68",
+          "65",
+          "23-Mar-26",
+          "67",
+          "58"
+        ],
+        [
+          "26-Jan-26",
+          "67",
+          "61",
+          "24-Feb-26",
+          "64",
+          "63",
+          "24-Mar-26",
+          "56",
+          "56"
+        ],
+        [
+          "27-Jan-26",
+          "57",
+          "50",
+          "25-Feb-26",
+          "56",
+          "56",
+          "25-Mar-26",
+          "56",
+          "56"
+        ],
+        [
+          "28-Jan-26",
+          "56",
+          "50",
+          "26-Feb-26",
+          "56",
+          "56",
+          "26-Mar-26",
+          "57",
+          "56"
+        ],
+        [
+          "29-Jan-26",
+          "55",
+          "37",
+          "27-Feb-26",
+          "57",
+          "53",
+          "27-Mar-26",
+          "58",
+          "50"
+        ],
+        [
+          "30-Jan-25",
+          "53",
+          "47",
+          " ",
+          " ",
+          " ",
+          "30-Mar-26",
+          "67",
+          "51"
+        ],
+        [
+          " ",
+          " ",
+          " ",
+          " ",
+          " ",
+          " ",
+          "31-Mar-26",
+          "56",
+          "56"
+        ],
+        [
+          " ",
+          "Average Planned",
+          "Average Released",
+          " ",
+          "Average Planned",
+          "Average Released",
+          " ",
+          "Average Planned",
+          "Average Released"
+        ],
+        [
+          " ",
+          "60.62",
+          "50.67",
+          " ",
+          "56.60",
+          "50.47",
+          " ",
+          "59.18",
+          "53.50"
+        ]
+      ]
+    ],
+    "charts": []
+  },
+  {
+    "slide": 29,
+    "texts": [
+      "Event logging \u000bJan – mar 26",
+      "Total Events = 50\n\nAvg. p/month = ~16"
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 30,
+    "texts": [],
+    "tables": [],
+    "charts": [
+      {
+        "chart_type": "PIE (5)",
+        "has_title": true,
+        "title": "3. Classification Pie Chart",
+        "series": [
+          {
+            "name": "",
+            "values": [
+              7.0,
+              38.0,
+              5.0
+            ]
+          }
+        ]
+      },
+      {
+        "chart_type": "COLUMN_CLUSTERED (51)",
+        "has_title": true,
+        "title": "4. Average RPN per Department",
+        "series": [
+          {
+            "name": "",
+            "values": [
+              18.5,
+              17.0,
+              12.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 31,
+    "texts": [
+      "Executive Summary (QMS Health Overview)",
+      "Overall QMS Status: 🟢 – In control",
+      "Quarter Summary\nThe Pharmaceutical Quality System remained stable and effective throughout the review period. Review of quality metrics indicates no adverse trends requiring escalation or additional management intervention.\n\nKey observations include:\nNo emerging trends identified within deviations, complaints, OOS/OOT investigations or returned products.\nCAPAs continue to be completed within established timeframes, with no significant backlog observed.\nExtensions for Change Controls and Risk Assessments remain low.\nOverall document closure performance remains satisfactory, all documents completed within their assigned due dates.\nNo overdue quality records of significant regulatory or business concern were identified during the review period.",
+      "Key Risks\n\nBusiness Central (BC) Recall Traceability & Reconciliation\nCurrent Risk Level: Medium\nProposed Actions:\nTargeted QA training focused on product traceability and recall functionality within BC\nReview whether required information for recall management can be obtained through a single reporting process.\nAssess opportunities to improve reporting functionality and reduce reliance on manual data extraction.\nVerify effectiveness during a future mock recall and traceability activities.\n\nControlled Document Backlog\nCurrent Risk Level: Low-Medium\nProposed Actions:\nContinue prioritisation of overdue document review activities.\nMonitor backlog reduction through routine Quality Management review.\nEscalate resource requirements if progress stalls.",
+      "Key Improvements Achieved\n\nSuccessful management and closure of Quetiapine recall, with full product accountability and reconciliation achieved.\nSignificant enhancement of the Scientific Rationale process, strengthening GMP decision-making and regulatory compliance.\nContinued reduction in overdue controlled documentation.\nNo Manufacturing rejected batches recorded during the review period."
+    ],
+    "tables": [],
+    "charts": []
+  },
+  {
+    "slide": 32,
+    "texts": [
+      "Any Questions? "
+    ],
+    "tables": [],
+    "charts": []
+  }
+]
