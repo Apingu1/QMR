@@ -13,14 +13,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install python-pptx
+      - run: pip install python-pptx matplotlib
       - run: python tools/extract_qmr.py
       - run: python tools/inspect_qmr_reference.py
       - run: python tools/qmr_analyse.py
-      - name: Commit extracted source text
+      - run: python tools/build_qmr_final.py
+      - name: Commit QMR outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add analysis/extracted analysis/reference_structure.json analysis/qmr_analysis.json analysis/reference_outline.json
-          git commit -m "Extract and analyse QMR source data" || exit 0
+          git add analysis output
+          git commit -m "Generate QMR Apr-Jun 2026" || exit 0
           git push
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Eaststone-QMR-Apr-Jun-2026
+          path: output/Eaststone_QMR_Apr-Jun_2026.pptx
