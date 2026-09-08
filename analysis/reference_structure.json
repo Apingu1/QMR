@@ -1,0 +1,4913 @@
+{
+  "slide_width": 12192000,
+  "slide_height": 6858000,
+  "slides": [
+    {
+      "slide": 1,
+      "shapes": [
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 5937591,
+          "top": 388276,
+          "width": 5969705,
+          "height": 1508760,
+          "text": "Quality Metrics review (QMR)"
+        },
+        {
+          "name": "Subtitle 2",
+          "type": "TEXT_BOX (17)",
+          "left": 6067036,
+          "top": 2724408,
+          "width": 5710814,
+          "height": 601597,
+          "text": "Review Period: Apr - Jun (Q2) 2026\n"
+        },
+        {
+          "name": "Group 8",
+          "type": "GROUP (6)",
+          "left": -6703,
+          "top": 307892,
+          "width": 5710814,
+          "height": 5674497,
+          "children": [
+            {
+              "name": "Rectangle 5",
+              "type": "AUTO_SHAPE (1)",
+              "left": 1122064,
+              "top": 694747,
+              "width": 5710814,
+              "height": 5674497,
+              "text": ""
+            },
+            {
+              "name": "Picture 2",
+              "type": "PICTURE (13)",
+              "left": 1186638,
+              "top": 772166,
+              "width": 5634701,
+              "height": 5571957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "shapes": [
+        {
+          "name": "Rectangle 16",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 18",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 1041062,
+          "top": 774550,
+          "width": 2696285,
+          "height": 5443369,
+          "text": "QMR\u000bKEY"
+        },
+        {
+          "name": "Rectangle 20",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "PLACEHOLDER (14)",
+          "left": 4380813,
+          "top": 181567,
+          "width": 6288088,
+          "height": 3732304,
+          "text": "Overall QMS Status: 🟢- In control / 🟠- Improvement needed / 🔴- Out of control\nKPI Trend & Assessment level: 🟢- Improving / 🟠- Stable / 🔴- Deteriorating\nClassifications:      - Minor /      - Major /      - Critical\nTarget date adherence:      - Completed within target date /      - Overdue or completed past target date\n\n"
+        },
+        {
+          "name": "Oval 4",
+          "type": "AUTO_SHAPE (1)",
+          "left": 6302475,
+          "top": 1779638,
+          "width": 285139,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "name": "Oval 5",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7593680,
+          "top": 1779638,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "name": "Oval 6",
+          "type": "AUTO_SHAPE (1)",
+          "left": 8875049,
+          "top": 1779638,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "name": "Oval 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7282688,
+          "top": 2256175,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "name": "Oval 7",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5143938,
+          "top": 2558970,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 4118310,
+          "table": [
+            [
+              "KPI ",
+              "Q1 (2026)",
+              "Q2 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "8",
+              "13"
+            ],
+            [
+              "Total closed this quarter",
+              "12",
+              "14"
+            ],
+            [
+              "Major/Critical raised",
+              "1",
+              "3"
+            ],
+            [
+              "Major/Critical closed",
+              "2",
+              "2"
+            ],
+            [
+              "Average Closure time",
+              "53 days",
+              "44 days"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟢- Improving "
+        },
+        {
+          "name": "Chart 4",
+          "type": "CHART (3)",
+          "left": 4059079,
+          "top": 3757847,
+          "width": 8132919,
+          "height": 3090104,
+          "chart": {
+            "chart_type": "COLUMN_CLUSTERED (51)",
+            "has_title": true,
+            "title": "Deviations vs Total Orders",
+            "series": [
+              {
+                "name": "Total Manufactured + 3rd party +SO Orders",
+                "values": [
+                  2964.0,
+                  3128.0,
+                  2784.0,
+                  3250.0,
+                  3299.0,
+                  2983.0,
+                  3272.0,
+                  3590.0,
+                  3438.0,
+                  3866.0,
+                  4118.0,
+                  3767.0,
+                  4346.0
+                ]
+              },
+              {
+                "name": "Deviation Percentage (All)",
+                "values": [
+                  0.1349527665317139,
+                  0.0959079283887468,
+                  0.07183908045977011,
+                  0.0923076923076923,
+                  0.06062443164595332,
+                  0.10056989607777406,
+                  0.1528117359413203,
+                  0.1392757660167131,
+                  0.0,
+                  0.0775995861355406,
+                  0.2185526954832443,
+                  0.053092646668436425,
+                  0.04601932811780948
+                ]
+              },
+              {
+                "name": "Deviations affecting daily orders percentage ",
+                "values": [
+                  0.033738191632928474,
+                  0.0,
+                  0.0,
+                  0.06153846153846154,
+                  0.0,
+                  0.0,
+                  0.061124694376528114,
+                  0.05571030640668524,
+                  0.0,
+                  0.05173305742369374,
+                  0.1699854298203011,
+                  0.0,
+                  0.02300966405890474
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chart 5",
+          "type": "CHART (3)",
+          "left": 4059078,
+          "top": 449825,
+          "width": 8132919,
+          "height": 3297973,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "Deviations (Last 12 Months)",
+            "series": [
+              {
+                "name": "New Deviations",
+                "values": [
+                  4.0,
+                  3.0,
+                  2.0,
+                  3.0,
+                  2.0,
+                  3.0,
+                  5.0,
+                  5.0,
+                  0.0,
+                  3.0,
+                  9.0,
+                  2.0,
+                  2.0
+                ]
+              },
+              {
+                "name": "Closed Deviations",
+                "values": [
+                  4.0,
+                  6.0,
+                  1.0,
+                  2.0,
+                  2.0,
+                  1.0,
+                  1.0,
+                  6.0,
+                  3.0,
+                  3.0,
+                  3.0,
+                  5.0,
+                  6.0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3424750,
+          "children": [
+            {
+              "name": "Table 16",
+              "type": "TABLE (19)",
+              "left": 797885,
+              "top": 3183211,
+              "width": 12278237,
+              "height": 1869575,
+              "table": [
+                [
+                  "Major & Critical Deviations Closed",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Deviation number",
+                  "Date raised",
+                  "Deviation description",
+                  "Classification ",
+                  "Target date",
+                  "Completion date"
+                ],
+                [
+                  "DEV.2026.015",
+                  "24-Apr-26",
+                  "Excessive foaming of Doxycycline Suspension Product",
+                  "Major",
+                  "29-May-26",
+                  "12-May-26"
+                ],
+                [
+                  "Dev.2026.020",
+                  "19-Jun-26",
+                  "Overdue calibration on tinytag used to monitor humidity for tableting bay batches",
+                  "Critical",
+                  "26-Jun-26",
+                  "26-Jun-26"
+                ]
+              ]
+            },
+            {
+              "name": "Table 17",
+              "type": "TABLE (19)",
+              "left": 797886,
+              "top": 1529658,
+              "width": 12278235,
+              "height": 1338521,
+              "table": [
+                [
+                  "Major & Critical Deviations Open",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Deviation number",
+                  "Date raised",
+                  "Deviation description",
+                  "Classification",
+                  "Target date",
+                  "Reason still open"
+                ],
+                [
+                  "DEV.2026.021",
+                  "25-Jun-26",
+                  "Midazolam Hydrochloride raw material used is past its expiry date",
+                  "Critical",
+                  "09-Jul-26",
+                  "Investigation in progress"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 4607208,
+          "width": 11101645,
+          "height": 1241410,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with an Extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q2 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "1",
+              "0",
+              "0",
+              "2",
+              "0",
+              "0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4479045,
+          "top": -38524,
+          "width": 7292987,
+          "height": 588271,
+          "text": "IDENTIFIED ROOT CAUSE TRENDS (Q2)"
+        },
+        {
+          "name": "Picture 7",
+          "type": "PICTURE (13)",
+          "left": 719329,
+          "top": 3696199,
+          "width": 11472670,
+          "height": 3162755
+        },
+        {
+          "name": "Picture 5",
+          "type": "PICTURE (13)",
+          "left": 719329,
+          "top": 518385,
+          "width": 11472670,
+          "height": 3189299
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 2155106,
+          "top": 1664330,
+          "width": 848518,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 2155107,
+          "top": 2889754,
+          "width": 805058,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5966012,
+          "top": 919006,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5991059,
+          "top": 2680265,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5479156,
+          "top": 2598185,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5433476,
+          "top": 1847896,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": -10289,
+          "width": 3339751,
+          "height": 1077218,
+          "text": "TREND \nANALYSIS"
+        },
+        {
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 3706760,
+          "top": 2671,
+          "width": 8485239,
+          "height": 6663667,
+          "table": [
+            [
+              "Trend",
+              "Deviation numbers",
+              "Deviation details (Description, investigation etc)",
+              "Systemic themes identified?",
+              "Escalation required/Regulatory impact?"
+            ],
+            [
+              "Area &\nRoot Cause",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Product Manufacturing\n&\nHuman Error",
+              "DEV.2025.008\nDEV.2025.035\nDEV.2026.013",
+              "Incorrect quantity of base excipient added. 468.8g added instead of 468g. The weighing slip was visually misinterpreted by operators. In addition, SOPs do not allow for minor variances where safe to do so.\nOperator did not wait for volume checker and mistakenly used water for irrigation instead of maltitol. SOP does not state volume checker must witness the volume being made. Also, the operator was unwell during the shift. \nIncorrect weighing scale used to measure 13mg of beclomethasone powder. Operator assumed procedure within SOP took precedence over BMR. Procedure is SOP is also inaccurate and requires updating",
+              "No: Differing staff, all human errors are combined with a procedural deficiency. ",
+              "N/A"
+            ],
+            [
+              "Stability\n&\nHuman Error",
+              "DEV.2025.037\nDEV.2026.008",
+              "",
+              "",
+              ""
+            ],
+            [
+              "QC Testing\n&\nEquipment Fault",
+              "DEV.2025.023\nDEV.2026.018\nDEV.2026.019",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Labelling\n&\nProcedure is deficient",
+              "DEV.2026.014\nDEV.2026.017",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Temperature Monitoring\n&\nProcedure is deficient",
+              "DEV.2025.036\nDEV.2026.020",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Equipment\n&\nEquipment Fault ",
+              "DEV.2025.029\nDEV.2026.002\nDEV.2026.003\nDEV.2026.009\nDEV.2026.012\nDEV.2026.016",
+              "Friability machine failure, motor that drives rotating drum suffered internal damages.\nLoan Comark transmitter gave discrepancy in humidity measurement due to sensor issue.\nAutosampler error in HPLC, robotic arm malfunction due to module defect over time.",
+              "No: differing equipment ",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 780710,
+          "top": 1140514,
+          "width": 2926051,
+          "height": 5509200,
+          "text": "Systemic themes identified: \n\nMultiple equipment fault root causes have been assigned in various deviation areas. \nThe primary theme of these equipment faults seem to be wear and tear of older equipment and prolonged usage\n\nFurther actions: \n\nNo further action is required based on this analysis. Equipment is being systematically replaced where it is warranted. \nAs stated in the table there is no escalation required or regulatory impact "
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3749118,
+          "table": [
+            [
+              "KPI ",
+              "Q1 (2026)",
+              "Q2 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "5",
+              "1"
+            ],
+            [
+              "Total closed this quarter",
+              "4",
+              "3"
+            ],
+            [
+              "Average Closure time",
+              "38 days",
+              "56 days"
+            ],
+            [
+              "Major/Critical raised",
+              "1",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟢- Improving "
+        },
+        {
+          "name": "Chart 2",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 449826,
+          "width": 8132919,
+          "height": 3293804,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "GMP Complaints (Last 12 Months)",
+            "series": [
+              {
+                "name": "New Complaints",
+                "values": [
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.0,
+                  2.0,
+                  3.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              {
+                "name": "Completed Complaints",
+                "values": [
+                  1.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  3.0,
+                  1.0,
+                  0.0,
+                  3.0,
+                  0.0,
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 3743630,
+          "width": 8132920,
+          "height": 3114370,
+          "chart": {
+            "chart_type": "COLUMN_CLUSTERED (51)",
+            "has_title": true,
+            "title": "Risk Classification Chart",
+            "series": [
+              {
+                "name": "Minor",
+                "values": [
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  3.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              },
+              {
+                "name": "Major",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              {
+                "name": "Critical",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101642,
+          "height": 3209998,
+          "children": [
+            {
+              "name": "Table 16",
+              "type": "TABLE (19)",
+              "left": 797885,
+              "top": 2845428,
+              "width": 12278233,
+              "height": 1986438,
+              "table": [
+                [
+                  "Major & Critical GMP Complaints Closed",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "GMP Complaint number",
+                  "Date raised",
+                  "Complaint description",
+                  "Classification ",
+                  "Target date",
+                  "Completion date"
+                ],
+                [
+                  "",
+                  "",
+                  "None to report in Q2, only Minor complaints",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              ]
+            },
+            {
+              "name": "Table 17",
+              "type": "TABLE (19)",
+              "left": 797886,
+              "top": 1529658,
+              "width": 12278235,
+              "height": 1119033,
+              "table": [
+                [
+                  "Major & Critical GMP Complaints Open",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "GMP Complaint number",
+                  "Date raised",
+                  "Complaint description",
+                  "Classification",
+                  "Target date",
+                  "Reason still open"
+                ],
+                [
+                  "",
+                  "",
+                  "None to report in Q2, only Minor complaints",
+                  "",
+                  "",
+                  ""
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 4905691,
+          "width": 11101645,
+          "height": 1241410,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with an Extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q2 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4479045,
+          "top": -38524,
+          "width": 7292987,
+          "height": 588271,
+          "text": "IDENTIFIED ROOT CAUSE TRENDS (Q2)"
+        },
+        {
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        },
+        {
+          "name": "Picture 9",
+          "type": "PICTURE (13)",
+          "left": 719328,
+          "top": 3776870,
+          "width": 11472671,
+          "height": 3087264
+        },
+        {
+          "name": "Picture 13",
+          "type": "PICTURE (13)",
+          "left": 729267,
+          "top": 548115,
+          "width": 11472672,
+          "height": 3252430
+        },
+        {
+          "name": "Oval 14",
+          "type": "AUTO_SHAPE (1)",
+          "left": 11489635,
+          "top": 1480930,
+          "width": 750565,
+          "height": 318053,
+          "text": ""
+        },
+        {
+          "name": "Oval 16",
+          "type": "AUTO_SHAPE (1)",
+          "left": 11462733,
+          "top": 3269972,
+          "width": 750565,
+          "height": 318053,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": -10289,
+          "width": 3339751,
+          "height": 1077218,
+          "text": "TREND \nANALYSIS"
+        },
+        {
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 3706760,
+          "top": 2671,
+          "width": 9328724,
+          "height": 6866476,
+          "table": [
+            [
+              "Trend",
+              "GMP Complaint numbers",
+              "Complaint details (Description, investigation etc)",
+              "Systemic themes identified?",
+              "Escalation required/Regulatory impact?"
+            ],
+            [
+              "Area &\nRoot Cause",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Product Appearance &\nOther\n",
+              "GMP.CPL.2025.009\nGMP.CPL.2026.003",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Product Efficacy &\nOther\n",
+              "GMP.CPL.2025.008\nGMP.CPL.2026.005",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 780710,
+          "top": 1140514,
+          "width": 2926051,
+          "height": 2062103,
+          "text": "Systemic themes identified:\n \n\nFurther actions: \nNo further actions required. No product defect issues or quality concerns.\n"
+        },
+        {
+          "name": "Rectangle 3",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 102960,
+          "top": 224912,
+          "width": 513410,
+          "height": 6302478,
+          "text": "SUPPLIER COMPLAINTS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3749118,
+          "table": [
+            [
+              "KPI ",
+              "Q1 (2026)",
+              "Q2 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "0",
+              "1"
+            ],
+            [
+              "Total closed this quarter",
+              "0",
+              "0"
+            ],
+            [
+              "Average Closure time",
+              "0",
+              "0"
+            ],
+            [
+              "Major/Critical raised",
+              "0",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "name": "TextBox 4",
+          "type": "TEXT_BOX (17)",
+          "left": 4224599,
+          "top": 6081290,
+          "width": 7816645,
+          "height": 707886,
+          "text": "No Major or Critical items to report "
+        },
+        {
+          "name": "Chart 5",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 449825,
+          "width": 8132919,
+          "height": 2800271,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "Suppliers Complaints \n(Last 12 Months)",
+            "series": [
+              {
+                "name": "New Complaints",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              {
+                "name": "Completed Complaints",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chart 6",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 3250096,
+          "width": 8132919,
+          "height": 2762370,
+          "chart": {
+            "chart_type": "COLUMN_CLUSTERED (51)",
+            "has_title": true,
+            "title": "Risk Classification Chart",
+            "series": [
+              {
+                "name": "Minor",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              {
+                "name": "Major",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              },
+              {
+                "name": "Critical",
+                "values": [
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  0.0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -113348,
+          "top": 224912,
+          "width": 988219,
+          "height": 6302478,
+          "text": "OOT/OOS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 4418972,
+          "table": [
+            [
+              "KPI ",
+              "Q1 (2026)",
+              "Q2 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "2",
+              "2"
+            ],
+            [
+              "Total closed this quarter",
+              "2",
+              "1"
+            ],
+            [
+              "Average Closure time",
+              "17 days",
+              "12 days"
+            ],
+            [
+              "True OOS",
+              "1",
+              "1"
+            ],
+            [
+              "True OOT",
+              "0",
+              "0"
+            ],
+            [
+              "Lab Error",
+              "1",
+              "0"
+            ],
+            [
+              "Batch Rejections",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 5256232,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 406584,
+          "width": 8132919,
+          "height": 6451416,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "OOS/OOT (Last 12 Months)",
+            "series": [
+              {
+                "name": "New OOS",
+                "values": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  2.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  1.0,
+                  0.0
+                ]
+              },
+              {
+                "name": "Completed OOS",
+                "values": [
+                  1.0,
+                  2.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  1.0,
+                  1.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 719328,
+          "top": 33726,
+          "width": 3355136,
+          "height": 523220,
+          "text": "SIGNIFICANT ITEMS"
+        },
+        {
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 716875,
+          "top": 542728,
+          "width": 11475125,
+          "height": 2311900,
+          "children": [
+            {
+              "name": "Table 16",
+              "type": "TABLE (19)",
+              "left": 795370,
+              "top": 2896945,
+              "width": 11756241,
+              "height": 1241124,
+              "table": [
+                [
+                  "OOS/OOT Closed",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "OOS/OOT Number",
+                  "Date raised",
+                  "OOS/OOT description",
+                  "Target date",
+                  "Completion date"
+                ],
+                [
+                  "OOS.2026.001",
+                  "14-Jan-26",
+                  "High Assay Levomepromazine Maleate 3mg tablets",
+                  "16-Feb-26",
+                  "16-Feb-26"
+                ],
+                [
+                  "OOS.2026.002",
+                  "29-Jan-26",
+                  "High Assay Levomepromazine Maleate 6mg tablets",
+                  "01-Feb-26",
+                  "30-Jan-26"
+                ]
+              ]
+            },
+            {
+              "name": "Table 17",
+              "type": "TABLE (19)",
+              "left": 800394,
+              "top": 1759757,
+              "width": 11753731,
+              "height": 1137194,
+              "table": [
+                [
+                  "OOS/OOT Open",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "OOS/OOT Number",
+                  "Date raised",
+                  "OOS/OOT description",
+                  "Target date",
+                  "Reason still open"
+                ],
+                [
+                  "OOS.2026.004",
+                  "01-May-26",
+                  "Levomepromazine Maleate 3mg ES181485 PV1 Powder Blend - Assay is Out of specification with result of 106.647%",
+                  "31-Jul-26",
+                  "Investigation in progress"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 719327,
+          "top": 2923158,
+          "width": 11470220,
+          "height": 1025891,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with an extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q1 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "0",
+              "0",
+              "0",
+              "2",
+              "0",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": -113348,
+          "top": 224912,
+          "width": 988219,
+          "height": 6302478,
+          "text": "OOT/OOS"
+        },
+        {
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 719329,
+          "top": 4552277,
+          "width": 11470220,
+          "height": 2305723,
+          "table": [
+            [
+              "Trend Analysis",
+              "No recurring OOS/OOT identified\nNo systemic analytical performance concerns identified"
+            ],
+            [
+              "OOT Specifics",
+              "Stability OOT: One stability OOT identified (Diltiazem 2% Cream); trending monitored with no confirmed OOS at T12, awaiting T18 for final timepoint confirmation. \nFinished Product OOT: 0\nSpecification shifts detected: No"
+            ],
+            [
+              "Regulatory Impact",
+              "No regulatory notification required from any OOS investigations. No OOS results impacted released products."
+            ]
+          ]
+        },
+        {
+          "name": "TextBox 3",
+          "type": "TEXT_BOX (17)",
+          "left": 4074464,
+          "top": 3989053,
+          "width": 8117536,
+          "height": 523220,
+          "text": "PERFORMANCE AND PRODUCT QUALITY ANALYSIS"
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "CAPAs"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "table": [
+            [
+              "KPI ",
+              "Q4 (2025)",
+              "Q1 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "7",
+              "10"
+            ],
+            [
+              "Total closed this quarter",
+              "10",
+              "9"
+            ],
+            [
+              "Major/Critical raised",
+              "4",
+              "3"
+            ],
+            [
+              "Major/Critical closed",
+              "6",
+              "5"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4053581,
+          "top": 381001,
+          "width": 8138419,
+          "height": 3742092,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "CAPAs (Last 12 Months)",
+            "series": [
+              {
+                "name": "New CAPAs",
+                "values": [
+                  5.0,
+                  2.0,
+                  7.0,
+                  10.0,
+                  7.0,
+                  0.0,
+                  2.0,
+                  3.0,
+                  2.0,
+                  2.0,
+                  7.0,
+                  1.0,
+                  2.0
+                ]
+              },
+              {
+                "name": "Completed CAPAs",
+                "values": [
+                  1.0,
+                  2.0,
+                  2.0,
+                  3.0,
+                  3.0,
+                  5.0,
+                  6.0,
+                  4.0,
+                  3.0,
+                  3.0,
+                  1.0,
+                  6.0,
+                  2.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 4053580,
+          "top": 4123090,
+          "width": 8138419,
+          "height": 2743200,
+          "table": [
+            [
+              "Source of All CAPAs (Last 12 Months)",
+              "CAPA Quantity raised"
+            ],
+            [
+              "Deviations",
+              "29"
+            ],
+            [
+              "Complaints",
+              "2"
+            ],
+            [
+              "Audits",
+              "7"
+            ],
+            [
+              "OOS/OOT",
+              "2"
+            ],
+            [
+              "Complaints Against Suppliers/Outsourced Activity Providers (OAPs)",
+              "1"
+            ],
+            [
+              "Effectiveness check follow-up",
+              "3"
+            ],
+            [
+              "Other",
+              "3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "CAPAs"
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3069236,
+          "children": [
+            {
+              "name": "Table 16",
+              "type": "TABLE (19)",
+              "left": 797885,
+              "top": 2819440,
+              "width": 12278237,
+              "height": 1867610,
+              "table": [
+                [
+                  "Major & Critical CAPAs Closed",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "CAPA number",
+                  "Date raised",
+                  "CAPA description",
+                  "Classification ",
+                  "Target date",
+                  "Completion date"
+                ],
+                [
+                  "CAPA.2025.007",
+                  "10-Mar-25",
+                  "DEV.2024.013 - Gap analysis on the cleaning validation of Haloperidol",
+                  "Critical",
+                  "31-Mar-26",
+                  "31-Mar-26"
+                ],
+                [
+                  "CAPA.2025.020",
+                  "02-Jun-25",
+                  "Dev.2025.017 –  Rejected batch investigation identified a deficiency in the customer enquiries process with regards to R&D trials",
+                  "Major",
+                  "27-Feb-26",
+                  "27-Feb-26"
+                ],
+                [
+                  "CAPA.2025.040",
+                  "23-Sep-25",
+                  "SI.25.TRANS1 – Transport Audit CAPA",
+                  "Major",
+                  "28-Feb-26",
+                  "27-Feb-26"
+                ],
+                [
+                  "CAPA.2026.001",
+                  "02-Jan-26",
+                  "DEV.2025.039 - Batch of duloxetine rejected due to excessive foaming",
+                  "Major",
+                  "05-Feb-26",
+                  "03-Feb-26"
+                ],
+                [
+                  "CAPA.2026.007",
+                  "28-Jan-26",
+                  "DEV.2026.004 - Quetiapine Oral Suspensions Double strength supplied / REC.2026.001",
+                  "Critical",
+                  "28-Feb-26",
+                  "27-Feb-26"
+                ]
+              ]
+            },
+            {
+              "name": "Table 17",
+              "type": "TABLE (19)",
+              "left": 797886,
+              "top": 1529658,
+              "width": 12278235,
+              "height": 972050,
+              "table": [
+                [
+                  "Major & Critical CAPAs Open",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "CAPA number",
+                  "Date raised",
+                  "CAPA description",
+                  "Classification",
+                  "Target date",
+                  "Reason still open"
+                ],
+                [
+                  "CAPA.2025.047",
+                  "29-Dec-25",
+                  "Production Internal Audit",
+                  "Major",
+                  "31-May-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "CAPA.2026.004",
+                  "22-Jan-26",
+                  "Mock Inspection CAPA",
+                  "Major",
+                  "31-Jul-26",
+                  "Actions Outstanding"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 3861635,
+          "width": 11101645,
+          "height": 1241410,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q1 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "2",
+              "0",
+              "0",
+              "5",
+              "0",
+              "2"
+            ]
+          ]
+        },
+        {
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 842088,
+          "top": 5199872,
+          "width": 11101642,
+          "height": 807638,
+          "table": [
+            [
+              "Completed Effectiveness Checks (Q1 2026)",
+              "Passed",
+              "Failed",
+              "Do failures require follow-up?"
+            ],
+            [
+              "9",
+              "9",
+              "0",
+              "No failures to report!"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 622927,
+          "height": 6847953,
+          "text": "CHANGE CONTROLS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "table": [
+            [
+              "KPI ",
+              "Q4 (2025)",
+              "Q1 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "36",
+              "35"
+            ],
+            [
+              "Total closed this quarter",
+              "23",
+              "23"
+            ],
+            [
+              "Major/Critical raised",
+              "9",
+              "12"
+            ],
+            [
+              "Major/Critical closed",
+              "1",
+              "2"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 381001,
+          "width": 8132919,
+          "height": 3742091,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "Change Controls (Last 12 Months)",
+            "series": [
+              {
+                "name": "New Change Controls",
+                "values": [
+                  3.0,
+                  8.0,
+                  7.0,
+                  12.0,
+                  4.0,
+                  7.0,
+                  7.0,
+                  16.0,
+                  8.0,
+                  12.0,
+                  11.0,
+                  14.0,
+                  10.0
+                ]
+              },
+              {
+                "name": "Completed Change Controls",
+                "values": [
+                  4.0,
+                  5.0,
+                  4.0,
+                  9.0,
+                  10.0,
+                  9.0,
+                  7.0,
+                  9.0,
+                  10.0,
+                  4.0,
+                  9.0,
+                  8.0,
+                  6.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 4053581,
+          "top": 4123093,
+          "width": 8138418,
+          "height": 2724860,
+          "table": [
+            [
+              "Source of All CCs (Last 12 Months)",
+              "CC Quantity raised"
+            ],
+            [
+              "Process/Manufacturing changes",
+              "4"
+            ],
+            [
+              "Documentation/SOP Changes",
+              "8"
+            ],
+            [
+              "Equipment/Facility Changes",
+              "11"
+            ],
+            [
+              "Material & Supplier Changes",
+              "73"
+            ],
+            [
+              "Regulatory driven Changes",
+              "3"
+            ],
+            [
+              "Other",
+              "9"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "name": "Table 16",
+          "type": "TABLE (19)",
+          "left": 865336,
+          "top": 4160430,
+          "width": 11177628,
+          "height": 979170,
+          "table": [
+            [
+              "Major & Critical Change Controls  Closed",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Change Control number",
+              "Date raised",
+              "Change Control  description",
+              "Classification ",
+              "Target date",
+              "Completion date"
+            ],
+            [
+              "CC.2025.070",
+              "28-OCT-25",
+              "Update to scientific rationale process",
+              "Major",
+              "31-Jan-26",
+              "30-Jan-26"
+            ],
+            [
+              "CC.2025.076",
+              "05-NOV-25",
+              "Introduction of new friability machine",
+              "Major",
+              "31-Mar-26",
+              "23-Mar-26"
+            ]
+          ]
+        },
+        {
+          "name": "Table 17",
+          "type": "TABLE (19)",
+          "left": 865337,
+          "top": 584775,
+          "width": 11177628,
+          "height": 3564285,
+          "table": [
+            [
+              "Major & Critical Change Controls Open",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Change Control number",
+              "Date raised",
+              "Change Control  description",
+              "Classification",
+              "Target date",
+              "Reason still open"
+            ],
+            [
+              "CC.2024.028",
+              "20-May-24",
+              "Update of Deviation and complaint process",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2024.046",
+              "01-Oct-24",
+              "Implementation of BC for wholesale activity",
+              "Major",
+              "31-Aug-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2025.062",
+              "21-Oct-25",
+              "Introduction of new Stability Chamber",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2025.079",
+              "24-Nov-25",
+              "Introduction of Levomepromazine Maleate 3mg tablets",
+              "Major",
+              "30-Oct-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.004",
+              "08-Jan-26",
+              "Trihexyphenidyl Suspension formulation update",
+              "Major",
+              "30-Apr-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.006",
+              "13-Jan-26",
+              "Introduction of ribbon blender",
+              "Major",
+              "30-Nov-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.007",
+              "13-Jan-26",
+              "Introduction of Oscillating Granulator",
+              "Major",
+              "30-Nov-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.011",
+              "30-Jan-26",
+              "Introduction of Metal detector",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.014",
+              "05-Feb-26",
+              "Introduction of Logbook review procedure",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.016",
+              "06-Feb-26",
+              "Material Hazard & cleanability assessment process",
+              "Major",
+              "30-Apr-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.017",
+              "09-Feb-26",
+              "MA provided to Tolterodine ",
+              "Major",
+              "30-May-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.025",
+              "26-Feb-26",
+              "BMR Updates",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ],
+            [
+              "CC.2026.031",
+              "11-Mar-26",
+              "Validation of QC spreadsheets used for batch release ",
+              "Major",
+              "30-Jun-26",
+              "Actions Outstanding"
+            ]
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 849042,
+          "top": 5182623,
+          "width": 11204555,
+          "height": 906728,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with an Extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q1 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "13",
+              "2",
+              "0",
+              "2",
+              "0",
+              "1"
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 622927,
+          "height": 6847953,
+          "text": "CHANGE CONTROLS"
+        },
+        {
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 849042,
+          "top": 6132374,
+          "width": 11193922,
+          "height": 570850,
+          "table": [
+            [
+              "Completed Effectiveness Checks (Q1 2026)",
+              "Passed",
+              "Failed",
+              "Do failures require follow-up?"
+            ],
+            [
+              "7",
+              "7",
+              "0",
+              "No failures to report!"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 99304,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 549894,
+          "height": 6858002,
+          "text": "RISK ASSESSMENTS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "table": [
+            [
+              "KPI ",
+              "Q4 (2025)",
+              "Q1 (2026)"
+            ],
+            [
+              "Total raised this quarter",
+              "3",
+              "12"
+            ],
+            [
+              "Total closed this quarter",
+              "5",
+              "4"
+            ],
+            [
+              "Major/Critical raised",
+              "1",
+              "8"
+            ],
+            [
+              "Major/Critical closed",
+              "5",
+              "4"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "name": "Chart 2",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 449826,
+          "width": 8143917,
+          "height": 3663220,
+          "chart": {
+            "chart_type": "LINE_MARKERS (65)",
+            "has_title": true,
+            "title": "Risk Assessments (Last 12 Months)",
+            "series": [
+              {
+                "name": "New RAs",
+                "values": [
+                  1.0,
+                  0.0,
+                  2.0,
+                  3.0,
+                  2.0,
+                  0.0,
+                  2.0,
+                  1.0,
+                  2.0,
+                  0.0,
+                  5.0,
+                  4.0,
+                  3.0
+                ]
+              },
+              {
+                "name": "Completed RAs",
+                "values": [
+                  1.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  2.0,
+                  1.0,
+                  0.0,
+                  1.0,
+                  2.0,
+                  2.0,
+                  1.0,
+                  1.0,
+                  2.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Table 3",
+          "type": "TABLE (19)",
+          "left": 4053581,
+          "top": 4123093,
+          "width": 8138418,
+          "height": 2734909,
+          "table": [
+            [
+              "Source of All RAs (Last 12 Months)",
+              "RA Quantity raised"
+            ],
+            [
+              "Change controls",
+              "16"
+            ],
+            [
+              "Inspection findings",
+              "3"
+            ],
+            [
+              "Material Quality Risk (Expiry Extension)",
+              "3"
+            ],
+            [
+              "Material Quality Risk (Temperature Excursion)",
+              "1"
+            ],
+            [
+              "Other",
+              "3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842090,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3462767,
+          "children": [
+            {
+              "name": "Table 16",
+              "type": "TABLE (19)",
+              "left": 797884,
+              "top": 3682843,
+              "width": 12278237,
+              "height": 1409033,
+              "table": [
+                [
+                  "Major & Critical Risk Assessments Closed",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Risk Assessment number",
+                  "Date raised",
+                  "Risk Assessment description",
+                  "Classification ",
+                  "Target date",
+                  "Completion date"
+                ],
+                [
+                  "Risk.2025.012",
+                  "04-Nov-25",
+                  "Introduction of new stability chamber and impact on current stability samples",
+                  "Critical",
+                  "26-Mar-26",
+                  "19-Mar-26"
+                ],
+                [
+                  "Risk.2026.004",
+                  "27-Jan-26",
+                  "Patient risk of Defective medication supply ",
+                  "Critical",
+                  "03-Feb-26",
+                  "29-Jan-26"
+                ],
+                [
+                  "Risk.2026.009",
+                  "26-Feb-26",
+                  "To extend Eaststone Expiry Date of Capsule Shell White",
+                  "Major",
+                  "20-Mar-26",
+                  "18-Mar-26"
+                ]
+              ]
+            },
+            {
+              "name": "Table 17",
+              "type": "TABLE (19)",
+              "left": 797886,
+              "top": 1529658,
+              "width": 12278235,
+              "height": 2061648,
+              "table": [
+                [
+                  "Major & Critical Risk Assessments Open",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Risk Assessment number",
+                  "Date raised",
+                  "Risk Assessment description",
+                  "Classification",
+                  "Target date",
+                  "Reason still open"
+                ],
+                [
+                  "Risk.2026.001",
+                  "13-Jan-26",
+                  "Introduction of Ribbon Blender",
+                  "Major",
+                  "30-Nov-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "Risk.2026.002",
+                  "13-Jan-26",
+                  "Introduction of Oscillating Granulator",
+                  "Major",
+                  "30-Nov-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "Risk.2026.005",
+                  "30-Jan-26",
+                  "Introduction of Metal detector",
+                  "Major",
+                  "31-jul-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "Risk.2026.006",
+                  "06-Feb-26",
+                  "Material Toxicity Assessment Matrix update",
+                  "Critical",
+                  "30-Apr-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "Risk.2026.008",
+                  "23-Feb-26",
+                  "Introduction of new Laboratory (ALS)",
+                  "Major",
+                  "31-May-26",
+                  "Actions Outstanding"
+                ],
+                [
+                  "Risk.2026.010",
+                  "12-Mar-26",
+                  "To perform validation of in-use unvalidated spreadsheets",
+                  "Major",
+                  "17-Jun-26",
+                  "Actions Outstanding"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842090,
+          "top": 4481759,
+          "width": 11101645,
+          "height": 1241410,
+          "table": [
+            [
+              "Currently Open ",
+              "Open with an Extension",
+              "Currently open & overdue at the end of quarter",
+              "Closed (Q1 2026)",
+              "Closed after target date",
+              "Closed after extension"
+            ],
+            [
+              "6",
+              "0",
+              "0",
+              "3",
+              "0",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 549894,
+          "height": 6858002,
+          "text": "RISK ASSESSMENTS"
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -67626,
+          "top": -2,
+          "width": 842090,
+          "height": 6858002,
+          "text": "RECALLS"
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 1665975,
+          "width": 2257787,
+          "height": 5192023,
+          "text": "QUETIAPINE Recall Summary, outcome & impact"
+        },
+        {
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 2990952,
+          "top": 0,
+          "width": 9201048,
+          "height": 1669312,
+          "table": [
+            [
+              "Date Issued",
+              "Classification",
+              "Product Name & Strength",
+              "Manufacturer",
+              "DMRC Recall number ",
+              "Reason for recall",
+              "Date Closed "
+            ],
+            [
+              "27-Jan-26",
+              "Class 1",
+              "Quetiapine Oral Suspension (All strengths)",
+              "Eaststone",
+              "DMRC-38317654",
+              "Incorrect Strength of API in formulations",
+              "27FEB26"
+            ],
+            [
+              "13-Feb-26",
+              "Class 2",
+              "Melatonin 1mg/ml Oral Solution (Kidnaps)",
+              "Sterling Pharmaceuticals",
+              "DMRC-38487919",
+              "OOS in stability Batches",
+              "20MAR26"
+            ]
+          ]
+        },
+        {
+          "name": "Table 11",
+          "type": "TABLE (19)",
+          "left": 2990953,
+          "top": 1676606,
+          "width": 2718731,
+          "height": 5181392,
+          "table": [
+            [
+              "Activity",
+              "Outcome"
+            ],
+            [
+              "Recall Type (Mock/Genuine)",
+              "Genuine"
+            ],
+            [
+              "Recall Performed",
+              "Yes"
+            ],
+            [
+              "Traceability Achieved",
+              "100%"
+            ],
+            [
+              "Product Reconciliation Achieved",
+              "100%"
+            ],
+            [
+              "Completion Time",
+              "30 days"
+            ],
+            [
+              "Improvement Opportunities Identified",
+              "Yes"
+            ]
+          ]
+        },
+        {
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 1,
+          "width": 2271623,
+          "height": 1669312,
+          "text": "Summary of all recalls (Q1)"
+        },
+        {
+          "name": "TextBox 17",
+          "type": "TEXT_BOX (17)",
+          "left": 5723521,
+          "top": 1687240,
+          "width": 6468478,
+          "height": 2308324,
+          "text": "Recall Outcome & Key learning: \nAll affected product was successfully traced and reconciled.\nNo loss of product accountability was identified.\nRecall objectives were achieved within the required timeframe.\nLimitations within BC regarding tracing product distribution and generating reconciliation data. \nManual investigation and additional resource effort to identify product destination and complete reconciliation. "
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 5723520,
+          "top": 3995564,
+          "width": 6468478,
+          "height": 2862437,
+          "table": [
+            [
+              "Business & Compliance Impact",
+              ""
+            ],
+            [
+              "Observation",
+              "Impact"
+            ],
+            [
+              "Manual traceability activities required",
+              "Increased recall duration"
+            ],
+            [
+              "Limited reporting functionality",
+              "Reduced efficiency of reconciliation"
+            ],
+            [
+              "Additional QA and Operations resource required",
+              "Increased workload during recall"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "RETURNS & REJECTED BATCHES"
+        },
+        {
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 719329,
+          "top": 3267139,
+          "width": 4845724,
+          "height": 2286000,
+          "table": [
+            [
+              "Investigation Outcomes",
+              ""
+            ],
+            [
+              "Return Reason",
+              "Outcome"
+            ],
+            [
+              "Black specks observed in product",
+              "Complaint not confirmed following investigation. Returned sample inspected and no black specks identified."
+            ],
+            [
+              "Product considered \"too runny\"",
+              "Product met approved specification. Investigation concluded the reported characteristic was consistent with the normal properties of the product."
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 719329,
+          "top": -4,
+          "width": 4845724,
+          "height": 523220,
+          "text": "Product Returns Summary"
+        },
+        {
+          "name": "Table 27",
+          "type": "TABLE (19)",
+          "left": 715329,
+          "top": 518160,
+          "width": 4849724,
+          "height": 2743200,
+          "table": [
+            [
+              "Return Activity",
+              ""
+            ],
+            [
+              "Metric",
+              "Quarter Total"
+            ],
+            [
+              "Total Product Returns Received",
+              "2"
+            ],
+            [
+              "Complaint returns",
+              "2"
+            ],
+            [
+              "Courier damage returns",
+              "0"
+            ],
+            [
+              "Investigations Completed",
+              "2"
+            ],
+            [
+              "Confirmed Product Defects",
+              "0"
+            ],
+            [
+              "Open Investigations",
+              "0"
+            ],
+            [
+              "CAPAs Raised",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 723329,
+          "top": 5553138,
+          "width": 4841724,
+          "height": 1304862,
+          "table": [
+            [
+              "Management Conclusion"
+            ],
+            [
+              "No product quality defects attributable to Eaststone were identified. No recurring trends or systemic issues were observed and no CAPAs were required."
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5565053,
+          "top": 0,
+          "width": 6626946,
+          "height": 523220,
+          "text": "Rejected Batches Summary"
+        },
+        {
+          "name": "Table 32",
+          "type": "TABLE (19)",
+          "left": 5565052,
+          "top": 518362,
+          "width": 6626945,
+          "height": 2133600,
+          "table": [
+            [
+              "Rejected Batch Activity",
+              ""
+            ],
+            [
+              "Metric",
+              "Quarter Total"
+            ],
+            [
+              "Total Rejected batches",
+              "1"
+            ],
+            [
+              "Manufacturing rejected batches",
+              "0"
+            ],
+            [
+              "OOS rejected batches",
+              "1"
+            ],
+            [
+              "Open Investigations",
+              "0"
+            ],
+            [
+              "CAPAs raised",
+              "1"
+            ]
+          ]
+        },
+        {
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 5565049,
+          "top": 2651962,
+          "width": 6626945,
+          "height": 2194560,
+          "table": [
+            [
+              "Investigation Outcomes",
+              ""
+            ],
+            [
+              "Reject  Reason",
+              "Outcome"
+            ],
+            [
+              "High Assay observed during QC testing",
+              "Non-optimised manufacturing parameters (excessive mixing time and excessive API overage) adversely affected blend homogeneity and assay consistency, resulting in increased variability.\n\nHypothesis testing confirmed 5-minute mixing time as optimal. "
+            ]
+          ]
+        },
+        {
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 5565044,
+          "top": 4846522,
+          "width": 6626944,
+          "height": 2011478,
+          "table": [
+            [
+              "Management Conclusion"
+            ],
+            [
+              "Correct root cause determined. CAPA implemented. "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "CONTROLLED DOCUMENTS"
+        },
+        {
+          "name": "Table 5",
+          "type": "TABLE (19)",
+          "left": 824410,
+          "top": 220775,
+          "width": 11117492,
+          "height": 2420754,
+          "table": [
+            [
+              "SOP number",
+              "Version",
+              "Title",
+              "Issue Date:",
+              "Effective Date",
+              "Review Date",
+              "RP",
+              "QA RP",
+              "Associated Documents/ Comments"
+            ],
+            [
+              "ES.SOP.177",
+              "V04",
+              "New Account Opening Process",
+              "08-Aug-22",
+              "08-Aug-22",
+              "08-Aug-24",
+              "FINANCE",
+              "AHA",
+              "To be updated with BC additions (NAD)"
+            ],
+            [
+              "ES.SOP.176",
+              "V03",
+              "Credit Control",
+              "16-Mar-23",
+              "23-Mar-23",
+              "23-Mar-25",
+              "FINANCE",
+              "AHA",
+              "To be converted to HR document"
+            ],
+            [
+              "ES.SOP.050",
+              "V08",
+              "Operation, Calibration and Maintenance of the Jenway 3520 pH Meter",
+              "13-Mar-24",
+              "20-Mar-24",
+              "20-Mar-26",
+              "QC",
+              "AHA",
+              ""
+            ],
+            [
+              "ES.SOP.024",
+              "V10",
+              "Generating Certificates of Analysis",
+              "27-Mar-24",
+              "27-Mar-24",
+              "27-Mar-26",
+              "QC",
+              "AHA",
+              ""
+            ],
+            [
+              "ES.SOP.206",
+              "V02",
+              "RAW MATERIAL/EXCIPIENT PACKDOWN PROCESS",
+              "27-Mar-24",
+              "27-Mar-24",
+              "27-Mar-26",
+              "PRODUCTION, QC & R&D",
+              "AHA",
+              "Re-issue , no changes required"
+            ]
+          ]
+        },
+        {
+          "name": "Table 6",
+          "type": "TABLE (19)",
+          "left": 822871,
+          "top": 2774340,
+          "width": 11130321,
+          "height": 1309318,
+          "table": [
+            [
+              "FORM number",
+              "Version",
+              "Title",
+              "Issue Date:",
+              "Effective Date",
+              "Review Date",
+              "RP",
+              "QA RP",
+              "Associated Documents/ Comments"
+            ],
+            [
+              "ES.SOP.231.F01",
+              "V03",
+              "SPREADSHEET VALIDATION PROTOCOL TEMPLATE",
+              "04-Aug-23",
+              "11-Aug-23",
+              "11-Aug-25",
+              "QA",
+              "AM",
+              "CC.2026.031"
+            ],
+            [
+              "ES.SOP.050.F01",
+              "V04",
+              "JENWAY 3520 pH METER CALIBRATION",
+              "21-Mar-24",
+              "28-Mar-24",
+              "28-Mar-26",
+              "QC",
+              "AHA",
+              ""
+            ]
+          ]
+        },
+        {
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 811581,
+          "top": 4216469,
+          "width": 11130321,
+          "height": 867878,
+          "table": [
+            [
+              "ED number",
+              "Version",
+              "Title",
+              "Issue Date:",
+              "Effective Date",
+              "Review Date",
+              "RP",
+              "QA RP",
+              "Associated Documents/ Comments"
+            ],
+            [
+              "ES.ED.VMP.001",
+              "V02",
+              "Validation Master Plan",
+              "24-Jan-24",
+              "24-Jan-24",
+              "24-Jan-26",
+              "QA",
+              "SP",
+              "CAPA.2026.004"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "ENVIRONMENTAL MONITORING"
+        },
+        {
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 719328,
+          "top": 0,
+          "width": 6721603,
+          "height": 5363889,
+          "table": [
+            [
+              "Year",
+              "2026",
+              "January",
+              "",
+              "February",
+              "",
+              "March",
+              ""
+            ],
+            [
+              "Settle Plates:",
+              "Plates Location",
+              "TSA (Bacteria)",
+              "SDA (Mould OR Fungi)",
+              "TSA (Bacteria)",
+              "SDA (Mould OR Fungi)",
+              "TSA (Bacteria)",
+              "SDA (Mould OR Fungi)"
+            ],
+            [
+              "1",
+              "Tableting Room ",
+              "3",
+              "0",
+              "1",
+              "0",
+              "2",
+              "0"
+            ],
+            [
+              "2",
+              "Bay 1",
+              "12",
+              "0",
+              "2",
+              "0",
+              "2",
+              "0"
+            ],
+            [
+              "3",
+              "Bay 2",
+              "34",
+              "1",
+              "1",
+              "0",
+              "31",
+              "1"
+            ],
+            [
+              "4",
+              "Bay 3",
+              "7",
+              "0",
+              "8",
+              "0",
+              "2",
+              "0"
+            ],
+            [
+              "5",
+              "Bay 4",
+              "13",
+              "3",
+              "5",
+              "0",
+              "4",
+              "0"
+            ],
+            [
+              "6",
+              "Bay 5",
+              "3",
+              "0",
+              "1",
+              "0",
+              "2",
+              "0"
+            ],
+            [
+              "7",
+              "Bay 6 (BMA)",
+              "12",
+              "0",
+              "5",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "8",
+              "HP Bay (LHS of LAF Cabinet)",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "9",
+              "HP Washroom (LHS)",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "10",
+              "Change Room",
+              "49",
+              "0",
+              "53",
+              "3",
+              "40",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Table 3",
+          "type": "TABLE (19)",
+          "left": 7440930,
+          "top": 2,
+          "width": 4751069,
+          "height": 5394807,
+          "table": [
+            [
+              "Year",
+              "2026",
+              "February",
+              ""
+            ],
+            [
+              "Contact Plates:",
+              "Area",
+              "Contact Plates  TSA (Bacteria)",
+              "Contact Plates  SDA (Mould OR Fungi)"
+            ],
+            [
+              "1",
+              "Tableting Room ",
+              "0",
+              "0"
+            ],
+            [
+              "2",
+              "Bay 1",
+              "2",
+              "0"
+            ],
+            [
+              "3",
+              "Bay 2",
+              "0",
+              "0"
+            ],
+            [
+              "4",
+              "Bay 3",
+              "0",
+              "0"
+            ],
+            [
+              "5",
+              "Bay 4",
+              "0",
+              "0"
+            ],
+            [
+              "6",
+              "Bay 5",
+              "0",
+              "0"
+            ],
+            [
+              "7",
+              "Bay 6 (BMA)",
+              "0",
+              "0"
+            ],
+            [
+              "8",
+              "HP Bay (Centre of LAF Cabinet)",
+              "0",
+              "0"
+            ],
+            [
+              "9",
+              "HP Washroom (LHS)",
+              "0",
+              "0"
+            ],
+            [
+              "10",
+              "Change Room",
+              "0",
+              "0"
+            ]
+          ]
+        },
+        {
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 719327,
+          "top": 5363888,
+          "width": 11472671,
+          "height": 1494109,
+          "table": [
+            [
+              "Key Observations",
+              "Significant improvement observed in the Change room. \nResults demonstrate change room OOS issue has been nullified. \nAll results in Q1 below Alert and Action limits. "
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 24,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -59593,
+          "top": 0,
+          "width": 842090,
+          "height": 6858002,
+          "text": "VALIDATION"
+        },
+        {
+          "name": "Table 5",
+          "type": "TABLE (19)",
+          "left": 719328,
+          "top": 0,
+          "width": 11472671,
+          "height": 6858000,
+          "table": [
+            [
+              "Cleaning Validation",
+              "Beclomethasone\nCleaning validation has not been started.\nCleaning validation expected January  - March 2026\nMaterial Hazard assessments\nCurrently Ongoing to determine new worst-case API. This will then be subject to CV. "
+            ],
+            [
+              "Equipment Validation\n",
+              "Friability Machine\nCompleted and in use\nStability Chamber\nIOPQ completed by supplier. Validation to be verified before use. \nBMR Colour label printer\nCompleted and in use"
+            ],
+            [
+              "Process Validation",
+              "Nothing to report"
+            ],
+            [
+              "Spreadsheet Validation",
+              "QC Spreadsheets\nValidation in progress and being completed based on risk. "
+            ]
+          ]
+        },
+        {
+          "name": "Content Placeholder 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4687208,
+          "top": 385280,
+          "width": 6891428,
+          "height": 6087438,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -103137,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "AUDITS"
+        },
+        {
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 719330,
+          "top": 0,
+          "width": 5376670,
+          "height": 6858000,
+          "table": [
+            [
+              "Raw Materials Audit"
+            ],
+            [
+              "Inspection Findings: \n\nRaw materials are given a fixed 2-year shelf life from receipt (unless shorter is stated by the manufacturer), without documented scientific justification, stability data, or formal risk assessment covering storage, repackaging, or handling conditions.\n\nHigher-risk manufacturers may not receive enhanced assurance activities (e.g. audits or additional testing), reducing confidence in GMP compliance and supply chain risk control.\n\nCertain higher-risk excipients linked to historical DEG/EG contamination (e.g. glycerol, propylene glycol, low molecular weight PEGs) are used on site, with no documented risk assessment or enhanced supplier/incoming verification strategy in place."
+            ]
+          ]
+        },
+        {
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 6096000,
+          "top": 0,
+          "width": 6095988,
+          "height": 6858000,
+          "table": [
+            [
+              "Supplier Qualification Audit"
+            ],
+            [
+              "Inspection Findings: \n\nManufacturer qualification and supply chain assurance require strengthening. Qualification activities focus on distributors/wholesalers rather than the actual manufacturing sites. \n\nSuppliers operating outside the UK/EEA are identified as higher risk; however, additional qualification activities, equivalence assessments and enhanced controls are not clearly defined or consistently applied.\n\nSupplier requalification frequency does not align with the current SOP. SOP 011 requires annual reassessment; however, suppliers are currently reassessed every two years."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "shapes": [
+        {
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 79743,
+          "top": 0,
+          "width": 549894,
+          "height": 6858002,
+          "text": "REGULATORY CHANGES"
+        },
+        {
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 719330,
+          "top": 0,
+          "width": 5376670,
+          "height": 6858000,
+          "table": [
+            [
+              "Recall Guidance Update"
+            ],
+            [
+              "The updated guide to defective medicinal products was published by MHRA on the 16th February 2026.\n\nThe following are the relevant updates that will be integrated into our procedures: \n\nContact details specified between normal working hours and out of hours. \nInitial impact assessments now expected to include proposed market action/containment (recall, quarantine or other mitigating containment actions)\nGuidance now stipulates that all Class 1 Medicines Recalls, will be issued as National Patient Safety Alerts. \n"
+            ]
+          ]
+        },
+        {
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 6096000,
+          "top": 0,
+          "width": 6095988,
+          "height": 6858000,
+          "table": [
+            [
+              "APSM Q1"
+            ],
+            [
+              "APSM – Key Points (25th February 2026)\n\nHome Office CD licensing: The Home Office has recruited more licensing staff and is considering improved applicant updates. The Home Office identified maintaining valid DBS clearance throughout the application process as a major cause of licensing delays.\n\nCBPM policy: APSM raised the need for clearer MHRA policy and guidance for cannabis-based medicinal products.\n \nMHRA engagement: APSM can submit agenda items to raise practical issues affecting CBPMs, Schedule 1 imports, specials manufacturing or regulatory guidance for the June 2026 MHRA Partnership Group meeting.\n"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "shapes": [
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 1202919,
+          "top": 284176,
+          "width": 9784080,
+          "height": 1508760,
+          "text": "CBPM updates JAN – MAR 26"
+        },
+        {
+          "name": "Content Placeholder 2",
+          "type": "PLACEHOLDER (14)",
+          "left": 546755,
+          "top": 1880423,
+          "width": 11381541,
+          "height": 4977577,
+          "text": "10 February 2026: Home Office Schedule 1 licence variation application submitted. \n17 March 2026: Home Office compliance visit completed successfully. The application is progressing positively, with licence approval expected. Focus is now moving towards MHRA inspection readiness. \nAttendance booked for the Cannabis Europa Conference on 26–27 May 2026.\n\n"
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "shapes": [
+        {
+          "name": "Title 12",
+          "type": "PLACEHOLDER (14)",
+          "left": 1783797,
+          "top": 9824,
+          "width": 8624405,
+          "height": 621547,
+          "text": "Production Capacity Utilisation"
+        },
+        {
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 0,
+          "top": 631371,
+          "width": 7152312,
+          "height": 6216806,
+          "table": [
+            [
+              "January",
+              "",
+              "",
+              "February",
+              "",
+              "",
+              "March",
+              "",
+              ""
+            ],
+            [
+              "Date",
+              "Planned Batches",
+              "Batches Released",
+              "Date",
+              "Planned Batches",
+              "Batches Released",
+              "Date",
+              "Planned Batches",
+              "Batches Released"
+            ],
+            [
+              "02-Jan-26",
+              "72",
+              "41",
+              "02-Feb-26",
+              "58",
+              "50",
+              "02-Mar-26",
+              "67",
+              "60"
+            ],
+            [
+              "05-Jan-26",
+              "72",
+              "72",
+              "03-Feb-26",
+              "56",
+              "56",
+              "03-Mar-26",
+              "62",
+              "53"
+            ],
+            [
+              "06-Jan-26",
+              "62",
+              "59",
+              "04-Feb-26",
+              "48",
+              "42",
+              "04-Mar-26",
+              "62",
+              "60"
+            ],
+            [
+              "07-Jan-26",
+              "67",
+              "66",
+              "05-Feb-26",
+              "57",
+              "56",
+              "05-Mar-26",
+              "51",
+              "50"
+            ],
+            [
+              "08-Jan-26",
+              "62",
+              "56",
+              "06-Feb-26",
+              "53",
+              "36",
+              "06-Mar-26",
+              "58",
+              "45"
+            ],
+            [
+              "09-Jan-26",
+              "58",
+              "44",
+              "09-Feb-26",
+              "56",
+              "56",
+              "09-Mar-26",
+              "68",
+              "56"
+            ],
+            [
+              "12-Jan-26",
+              "67",
+              "57",
+              "10-Feb-26",
+              "58",
+              "54",
+              "10-Mar-26",
+              "56",
+              "55"
+            ],
+            [
+              "13-Jan-26",
+              "67",
+              "57",
+              "11-Feb-26",
+              "57",
+              "49",
+              "11-Mar-26",
+              "56",
+              "55"
+            ],
+            [
+              "14-Jan-26",
+              "62",
+              "45",
+              "12-Feb-26",
+              "57",
+              "56",
+              "12-Mar-26",
+              "57",
+              "51"
+            ],
+            [
+              "15-Jan-26",
+              "57",
+              "44",
+              "13-Feb-26",
+              "48",
+              "41",
+              "13-Mar-26",
+              "57",
+              "46"
+            ],
+            [
+              "16-Jan-26",
+              "58",
+              "44",
+              "16-Feb-26",
+              "67",
+              "53",
+              "16-Mar-26",
+              "68",
+              "54"
+            ],
+            [
+              "19-Jan-26",
+              "57",
+              "56",
+              "17-Feb-26",
+              "57",
+              "43",
+              "17-Mar-26",
+              "58",
+              "54"
+            ],
+            [
+              "20-Jan-26",
+              "54",
+              "52",
+              "18-Feb-26",
+              "53",
+              "44",
+              "18-Mar-26",
+              "56",
+              "56"
+            ],
+            [
+              "21-Jan-26",
+              "57",
+              "35",
+              "19-Feb-26",
+              "58",
+              "35",
+              "19-Mar-26",
+              "56",
+              "55"
+            ],
+            [
+              "22-Jan-26",
+              "57",
+              "40",
+              "20-Feb-26",
+              "48",
+              "45",
+              "20-Mar-26",
+              "53",
+              "44"
+            ],
+            [
+              "23-Jan-26",
+              "56",
+              "47",
+              "23-Feb-26",
+              "68",
+              "65",
+              "23-Mar-26",
+              "67",
+              "58"
+            ],
+            [
+              "26-Jan-26",
+              "67",
+              "61",
+              "24-Feb-26",
+              "64",
+              "63",
+              "24-Mar-26",
+              "56",
+              "56"
+            ],
+            [
+              "27-Jan-26",
+              "57",
+              "50",
+              "25-Feb-26",
+              "56",
+              "56",
+              "25-Mar-26",
+              "56",
+              "56"
+            ],
+            [
+              "28-Jan-26",
+              "56",
+              "50",
+              "26-Feb-26",
+              "56",
+              "56",
+              "26-Mar-26",
+              "57",
+              "56"
+            ],
+            [
+              "29-Jan-26",
+              "55",
+              "37",
+              "27-Feb-26",
+              "57",
+              "53",
+              "27-Mar-26",
+              "58",
+              "50"
+            ],
+            [
+              "30-Jan-25",
+              "53",
+              "47",
+              " ",
+              " ",
+              " ",
+              "30-Mar-26",
+              "67",
+              "51"
+            ],
+            [
+              " ",
+              " ",
+              " ",
+              " ",
+              " ",
+              " ",
+              "31-Mar-26",
+              "56",
+              "56"
+            ],
+            [
+              " ",
+              "Average Planned",
+              "Average Released",
+              " ",
+              "Average Planned",
+              "Average Released",
+              " ",
+              "Average Planned",
+              "Average Released"
+            ],
+            [
+              " ",
+              "60.62",
+              "50.67",
+              " ",
+              "56.60",
+              "50.47",
+              " ",
+              "59.18",
+              "53.50"
+            ]
+          ]
+        },
+        {
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7152311,
+          "top": 791450,
+          "width": 5039687,
+          "height": 5447645,
+          "text": "Key take aways from Q1:\n\nNumbers do not reflect stock batches on a given day (not released same day).\n\nProduction continues to operate at authorised manufacturing capacity.\n\nReduces the likelihood of manufacturing deviations as there is less pressure on GMP systems\n\nReflects mixed production scheduling i.e. between stock batch manufacturing and bespoke product manufacturing\n\nImprovement for Q2: To include all Stock batches generated for the given day. This will provide a more accurate reflection of production capacity. "
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "shapes": [
+        {
+          "name": "Rectangle 9",
+          "type": "AUTO_SHAPE (1)",
+          "left": 3048,
+          "top": 2059012,
+          "width": 12188952,
+          "height": 1828800,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 11",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7540358,
+          "top": 0,
+          "width": 4651642,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7534551,
+          "top": 2054942,
+          "width": 4657449,
+          "height": 1828799,
+          "text": ""
+        },
+        {
+          "name": "Title 12",
+          "type": "PLACEHOLDER (14)",
+          "left": 7865806,
+          "top": 2194560,
+          "width": 4001729,
+          "height": 1739347,
+          "text": "Event logging \u000bJan – mar 26"
+        },
+        {
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 7540358,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Graphic 4",
+          "type": "PICTURE (13)",
+          "left": 536094,
+          "top": 1325339,
+          "width": 6453222,
+          "height": 4207321
+        },
+        {
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 2871503,
+          "top": 5532660,
+          "width": 1797352,
+          "height": 738664,
+          "text": "Total Events = 50\n\nAvg. p/month = ~16"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "shapes": [
+        {
+          "name": "Rectangle 27",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 12192000,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "name": "Rectangle 29",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 426198,
+          "width": 12192000,
+          "height": 6005604,
+          "text": ""
+        },
+        {
+          "name": "Graphic 6",
+          "type": "PICTURE (13)",
+          "left": 165660,
+          "top": 3416602,
+          "width": 3666601,
+          "height": 2481738
+        },
+        {
+          "name": "Graphic 4",
+          "type": "PICTURE (13)",
+          "left": 165660,
+          "top": 561176,
+          "width": 4305137,
+          "height": 2321964
+        },
+        {
+          "name": "Graphic 2",
+          "type": "PICTURE (13)",
+          "left": 3949928,
+          "top": 3416600,
+          "width": 3553583,
+          "height": 2481737
+        },
+        {
+          "name": "Graphic 5",
+          "type": "PICTURE (13)",
+          "left": 7633005,
+          "top": 3638034,
+          "width": 4298062,
+          "height": 1913562
+        },
+        {
+          "name": "Chart",
+          "type": "CHART (3)",
+          "left": 4703572,
+          "top": 561176,
+          "width": 2989694,
+          "height": 2481737,
+          "chart": {
+            "chart_type": "PIE (5)",
+            "has_title": true,
+            "title": "3. Classification Pie Chart",
+            "series": [
+              {
+                "name": "",
+                "values": [
+                  7.0,
+                  38.0,
+                  5.0
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Chart",
+          "type": "CHART (3)",
+          "left": 7926041,
+          "top": 802746,
+          "width": 4005026,
+          "height": 2240167,
+          "chart": {
+            "chart_type": "COLUMN_CLUSTERED (51)",
+            "has_title": true,
+            "title": "4. Average RPN per Department",
+            "series": [
+              {
+                "name": "",
+                "values": [
+                  18.5,
+                  17.0,
+                  12.0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "shapes": [
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 0,
+          "top": 3587,
+          "width": 12192000,
+          "height": 747182,
+          "text": "Executive Summary (QMS Health Overview)"
+        },
+        {
+          "name": "TextBox 4",
+          "type": "TEXT_BOX (17)",
+          "left": 0,
+          "top": 646799,
+          "width": 6802734,
+          "height": 523220,
+          "text": "Overall QMS Status: 🟢 – In control"
+        },
+        {
+          "name": "Rectangle 11",
+          "type": "AUTO_SHAPE (1)",
+          "left": 99237,
+          "top": 1098364,
+          "width": 11993526,
+          "height": 2308324,
+          "text": "Quarter Summary\nThe Pharmaceutical Quality System remained stable and effective throughout the review period. Review of quality metrics indicates no adverse trends requiring escalation or additional management intervention.\n\nKey observations include:\nNo emerging trends identified within deviations, complaints, OOS/OOT investigations or returned products.\nCAPAs continue to be completed within established timeframes, with no significant backlog observed.\nExtensions for Change Controls and Risk Assessments remain low.\nOverall document closure performance remains satisfactory, all documents completed within their assigned due dates.\nNo overdue quality records of significant regulatory or business concern were identified during the review period."
+        },
+        {
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 99237,
+          "top": 3451313,
+          "width": 8130363,
+          "height": 3046988,
+          "text": "Key Risks\n\nBusiness Central (BC) Recall Traceability & Reconciliation\nCurrent Risk Level: Medium\nProposed Actions:\nTargeted QA training focused on product traceability and recall functionality within BC\nReview whether required information for recall management can be obtained through a single reporting process.\nAssess opportunities to improve reporting functionality and reduce reliance on manual data extraction.\nVerify effectiveness during a future mock recall and traceability activities.\n\nControlled Document Backlog\nCurrent Risk Level: Low-Medium\nProposed Actions:\nContinue prioritisation of overdue document review activities.\nMonitor backlog reduction through routine Quality Management review.\nEscalate resource requirements if progress stalls."
+        },
+        {
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7935776,
+          "top": 3485660,
+          "width": 4156987,
+          "height": 2369880,
+          "text": "Key Improvements Achieved\n\nSuccessful management and closure of Quetiapine recall, with full product accountability and reconciliation achieved.\nSignificant enhancement of the Scientific Rationale process, strengthening GMP decision-making and regulatory compliance.\nContinued reduction in overdue controlled documentation.\nNo Manufacturing rejected batches recorded during the review period."
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "shapes": [
+        {
+          "name": "Picture 3",
+          "type": "PICTURE (13)",
+          "left": 21,
+          "top": 10,
+          "width": 12191980,
+          "height": 6857991
+        },
+        {
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 365760,
+          "top": 2166365,
+          "width": 11471565,
+          "height": 1739347,
+          "text": "Any Questions? "
+        }
+      ]
+    }
+  ]
+}
