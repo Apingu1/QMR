@@ -1,0 +1,747 @@
+{
+  "file": "2026 - QMS DATA DOCUMENT CHANGE REQUEST Version 1.0.xlsx",
+  "sheets": [
+    {
+      "name": "Document Change Request",
+      "max_row": 293,
+      "max_col": 16,
+      "rows": [
+        {
+          "row": 1,
+          "values": [
+            "Spreadsheet No:  ES.CSV.014\nDOCUMENT CHANGE REQUEST\nSpreadsheet Owner: Omair Sattar\nRef. SOP: ES.SOP.215",
+            "",
+            "",
+            "",
+            "QMS DATA DOCUMENT CHANGE REQUEST\nVersion 1.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 2,
+          "values": [
+            "Change Request Number",
+            "Date Raised",
+            "Proposer",
+            "QA RP",
+            "Change Type:",
+            "Associated Documents",
+            "Details of change",
+            "Justification for Change",
+            "Current Status",
+            "Change Completed (Y/N)",
+            "Approved BY",
+            "Wet ink copy filed away? (Y/N)",
+            "Location",
+            "Comments",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 3,
+          "values": [
+            "DCR.2026.001",
+            "2026-01-21",
+            "NAD",
+            "NAD",
+            "Minor Changes (Non-GMP)",
+            "ES.ED.NDA.026.V05",
+            "Administrative update to include signature fields within the section “Signed to confirm acceptance and approval of the agreement”.",
+            "To ensure formal acceptance and approval of the NDA is clearly evidenced through authorised signatures.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 4,
+          "values": [
+            "DCR.2026.002",
+            "2026-01-22",
+            "SSP",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "LEVO31 & \nLEVO39",
+            "A minor update is proposed to the BMRs for LEVO31 and LEVO39 to include minor formatting changes to the QC sample label. This updated adds a printed label example to guide proper labelling during QC sampling. There is no impact on the process, specification or material usage.",
+            "This is the minor documentation change for clarity. The update does not impact the manufacturing process, product quality, or regulatory compliance, and therefore qualifies as a minor change.\n\nAs per internal procedures, minor changes to BMRs that do not affect critical content do not require formal change control.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 5,
+          "values": [
+            "DCR.2026.003",
+            "2026-01-22",
+            "SSP",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "INDO1 &\nLOPE3",
+            "This DCR is raised as a minor change to the referenced BMRs. Production has requested that these BMRs be added as stock. Accordingly, the current BMRs will be updated to the stock format in compliance with ES.SOP.119.F07.V01 – Eaststone Stock BMRs. This change is also aligned with CAPA.2025.003, under which INDO1 will be split into INDO1A and INDO1B.\n\n\nIn addition, this DCR covers the following actions:\n•\tRemoval and Separation of the brand name\n•\tUpdate of the header to include product characteristics\n•\tInclusion of lactose content in Section 2 of the BMRs",
+            "This change involves a minor documentation formatting update to align with Production requirements and to ensure compliance with ES.SOP.119.F07.V01 – Eaststone Stock BMR.\nThe update does not impact the manufacturing process, product quality, or regulatory compliance, and therefore qualifies as a minor change.\n\nAs per internal procedures, minor changes to BMRs that do not affect critical content do not require formal change control.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 6,
+          "values": [
+            "DCR.2026.004",
+            "2026-02-12",
+            "AA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.135.F01 - HVAC Boiler \nMonitoring Form",
+            "Removal of Page number on cover page",
+            "The cover page is an introductory document and does not form part of the controlled form content. It is not required for recording, review, verification, or Quality decision-making.\nTo avoid confusion and prevent the cover page being interpreted as a controlled page within the form set, the “Page 0 of 3” reference will be removed. \n\nThe controlled form will therefore start from Page 1 of 3, ensuring the page numbering applies only to the pages that contain required GMP records and Quality-relevant information.\nThis change improves clarity and prevents document control errors, without impacting the content, intent, or compliance of the form.\n",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 7,
+          "values": [
+            "DCR.2026.005",
+            "2026-02-12",
+            "NAD",
+            "NAD",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.051.F01.V09",
+            "Correction of minor typographical errors identified within the CD Stock Check Form ",
+            "The stock check process itself remains unchanged. The update simply ensures the forms accurately reflect current practice and improves document clarity and completeness.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 8,
+          "values": [
+            "DCR.2026.006",
+            "2026-02-25",
+            "WB",
+            "GN",
+            "Other",
+            "ES.LOG.069.V01\nES.LOG.085.V01",
+            "Update of title and content",
+            "The update involves clearly specify the document title to accurately reflect the equipment name (AURA\n\nFilteration Fume Cabinet) and adding a routine maintenance section to align with the already approved\n\nSOP.\n\nThere is no impact on equipment, process, product quality, validation status, or regulatory compliance.\n\nTherefore, formal change control is not required.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 9,
+          "values": [
+            "DCR.2026.007",
+            "2026-03-02",
+            "JNB",
+            "MR",
+            "Other",
+            "ES.CSV.007",
+            "Change of spreadsheet number from ES.CSV.007 to form in ES.SOP.022. ",
+            "The purpose of this update is to formally issue the existing spreadsheets (ES.CSV.007) for Physical Testing Statistical Calculations (Mean and Relative Standard Deviation) as controlled forms under ES.SOP.022.\nThe spreadsheets remain unchanged in functionality and are being temporarily controlled as SOP forms to ensure traceability, version control, and compliance with GMP documentation requirements until validation is completed and permanent QA-controlled storage locations are established.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 10,
+          "values": [
+            "DCR.2026.008",
+            "2026-03-03",
+            "SSP",
+            "SSP",
+            "Typo/Corrections",
+            "Various BMRs",
+            "To remove \"BP\" from the tile of manufactured finished products",
+            "May imply compliance with BP when this is not officially claimed or a Eaststone requirement",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 11,
+          "values": [
+            "DCR.2026.009",
+            "2026-03-04",
+            "AHA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.154 – Customer Enquiries \n\nES.SOP.154.F01 - Customer Enquiry Form - Part 1\n\nES.SOP.154.F02 - Customer Enquiry Form - Part 2",
+            "•\tUpdate Section 3 – R&D Response to ensure all quantities of raw materials for trial purposes are specified.\n•\tUpdate closure statements in Part 1 and Part 2 to allow Customer Services to know when order processing can take place following enquiry closure.\n•\tPlace digital boxes in Part 2 to allow the form to be used digitally.",
+            "This minor change further supports the objectives of the new enquiry process by optimising departmental workflow, reducing enquiry turnaround times, and improving overall operational efficiency.\n\nAs these changes are minor, a change control is not required.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 12,
+          "values": [
+            "DCR.2026.010",
+            "2026-03-05",
+            "AHU",
+            "GN",
+            "Typo/Corrections",
+            "PRS0205A.V01",
+            "The Purchase and Release Specification (PRS) document for Phenoxyethanol was incorrectly assigned the number PRS0205A when the material was received from a new manufacturer.\nThe correct PRS number associated with Phenoxyethanol is PRS0087. Therefore, the PRS document number will be updated from PRS0205A.V01 to PRS0087B.V01, in accordance with SOP066, Section 7.1.1\nAs Phenoxyethanol is used as an antimicrobial preservative in the products, the material must be labelled according to the colour coding system outlined in ES.SOP.066, Appendix B. Based on this classification, a blue colour label must be attached to the material.\nThis labelling requirement will be incorporated into the updated PRS document.",
+            "\nThis change will correct an incorrect Purchase and Release Specification (PRS) reference number that was assigned in error during receipt of Phenoxyethanol from a new manufacturer. \n\nThe correct PRS number for this material is PRS0087, and the update from PRS0205A.V01 to PRS0087B.V01 aligns the documentation with the material.\n \nNo modifications are being made to the material specification or the manufacturing process, hence does not introduce any risk in manufacturing product with this material.\n\nIn addition, the inclusion of the blue colour identification label requirement reflects the existing material classification for Phenoxyethanol as a preservative, as defined in ES.SOP.066 Appendix B.\n\nThe update will only correct the PRS reference and existing labelling requirements in relation to potential allergens. Therefore, correcting the PRS without a change control is justified.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 13,
+          "values": [
+            "DCR.2026.011",
+            "2026-03-11",
+            "UD",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.043.F01.V09 – \nProduction Area Housekeeping Form",
+            "On page 2 of 5, Incorporated explicit delivery and stock confirmation requirements for cleanroom gowns and Isopropyl Alcohol (IPA) 70%. Additionally, introduced descriptive titles to the relevant data tables within the document to structure the layout into a clearer format.",
+            "These updates were performed to enhance data traceability and provide greater operational clarification for the user. Formatting the table layout with specific titles optimises contemporaneous documentation by allowing operators to accurately record and verify information in real time. This minor administrative change has no impact on regulatory compliance, product quality, or validated systems, and aligns the document with the upcoming July 2026 periodic review schedule.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 14,
+          "values": [
+            "DCR.2026.012",
+            "2026-03-13",
+            "HK",
+            "HK",
+            "Minor Changes (Non-GMP)",
+            "",
+            "Addition of Opella Healthcare as an alternative company name on the Batch Manufacturing Record (BMR) for Buscopan tablets.\nDuring review of the Patient Information Leaflet (PIL) for Buscopan tablets supplied under Sanofi and Opella Healthcare, it was confirmed that both PILs are identical in content, formulation, and product information. The only difference identified is the company name displayed on the leaflet.\nAs the product remains the same and is marketed under both company names following corporate restructuring, the BMR will be updated to include Opella Healthcare alongside Sanofi to accurately reflect the current product documentation.\nSupporting documentation (PILs for both Sanofi and Opella Healthcare) will be attached as Appendix to this DCR.",
+            "The proposed update is administrative in nature and does not impact the product, manufacturing process, specifications, or GMP-critical documentation.\nReview of the Sanofi and Opella Healthcare PILs confirmed that:\n•\tThe product name, formulation, dosage form, strength, and instructions for use remain unchanged.\n•\tThe content of both PIL documents is identical, with the only difference being the company name due to corporate branding changes.\n•\tThere is no change to the product itself, manufacturing process, materials, specifications, or quality requirements.\nTherefore, no brand or product assessment is required, as the tablets remain the same approved product.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 15,
+          "values": [
+            "DCR.2026.013",
+            "2026-03-20",
+            "JNB",
+            "GN",
+            "Typo/Corrections",
+            "PRS0206A",
+            "The purpose of this update is to improve clarity within the PRS section Release Specification regarding testing requirements for incoming material.\nThe text has been revised to explicitly state that Loss on Drying and Microbial Contamination testing must be performed in-house on every batch received prior to material release, and that results must comply with the manufacturer’s specifications.\nAlthough this requirement was introduced in Version 02 in accordance with Risk Assessment Risk.2024.017, the previous wording did not clearly specify that testing must be conducted internally before release. This update ensures unambiguous instruction and consistent application during material release activities.\nAdditionally, the product title has been updated from:\n“Capsule Shell White (Gelatine) Size 3”\nto:\n“Capsule Shell White Opaque (Gelatine) Size 3”\nThis change aligns the internal documentation with the product name as stated on the manufacturer’s Certificate of Analysis (CoA), ensuring consistency and traceability.",
+            "Justification for why the change does not require a change control – Justify why the proposed changes should be implemented without raising a change control \n(Attach any supporting information/documentation): \n\nThis update is considered administrative and clarificatory in nature and does not require formal change control for the following reasons:\n• The requirement to perform Loss on Drying and Microbial Contamination testing on every batch was already approved and implemented under Version 02 following Risk Assessment Risk.2024.017.\n• The revision does not introduce new testing requirements, acceptance criteria, or processes, but only clarifies existing expectations.\n• There is no impact on product quality, safety, or efficacy, as the operational practice remains unchanged.\n• The product name update is editorial, aligning documentation with the manufacturer’s CoA, with no impact on material specification, sourcing, or use.\n• No changes to manufacturing process, analytical methods, specifications, or supplier are introduced.\nTherefore, this update is classified as a minor documentation clarification and can be managed under document control without initiation of a formal change control process.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 16,
+          "values": [
+            "DCR.2026.014",
+            "2026-04-14",
+            "AM",
+            "AM",
+            "Typo/Corrections",
+            "ES.SOP.239.F04.V02 – Related Substance \nCalculation for Combined Sequence\nES.SOP.239.F03.V01 – Homogeneity Calculation\nES.SOP.022.F05.V01 – Physical Testing (1 d.p.) Version 2\nES.SOP.022.F06.V01 – Physical Testing (2 d.p.) Version 2\nES.SOP.022.F07.V01 – Capsules Weight Uniformity Version 2",
+            "This change request proposes updates to multiple Quality Control (QC) spreadsheets used for batch data processing to ensure alignment between calculation sheets and corresponding user instruction tabs.\n\nFollowing the completion of an action from a risk assessment related to spreadsheet validation, it has been identified that certain spreadsheets currently in use contain discrepancies between the calculation tab content and the user instruction tab.\nAddition of Legend/Key for Blue Cells\nApplicable to:\nES.SOP.239.F04.V02 – Related Substance Calculation for Combined Sequence\nES.SOP.239.F03.V01 – Homogeneity Calculation\nAlignment of Calculation Sheet Diagrams with Actual Layout\nApplicable to:\nES.SOP.022.F05.V01 – Physical Testing (1 d.p.) Version 2\nES.SOP.022.F06.V01 – Physical Testing (2 d.p.) Version 2\nES.SOP.022.F07.V01 – Capsules Weight Uniformity Version 2",
+            "This change is required to address finding from a risk assessment (RA.2026.010), which indentified inconsistencies between user instruction and spreadsheet functionality. The updates will improve clarity and usability for users, ensure alignment between user instruction and calculation sheet tabs.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "N/A",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 17,
+          "values": [
+            "DCR.2026.015",
+            "2026-04-21",
+            "AM",
+            "AM",
+            "Typo/Corrections",
+            "ES.SOP.239.F04.V04 – Related Substance \nCalculation for Combined Sequence\n",
+            "Update the spreadsheet reference number to the correct CSV number.",
+            "To align with the current document control and numbering system. This change esnures consistency with the latest versioning, avoids duplication with existing references and ensures complisnce of controlled documents.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "N/A",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 18,
+          "values": [
+            "DCR.2026.016",
+            "2026-05-21",
+            "AHA",
+            "AHA",
+            "Typo/Corrections",
+            "ES.SOP.272.F01.\nV01",
+            "Update ES.SOP.272.F01.V01 - Material Hazard & Cleanability Screening Assessment to ensure all section numbering is correct.\nAdditionally, the final review & approval section will be updated from QA to QA Management to ensure alignment with the SOP.",
+            "This change is classified as minor and has been raised to correct a typographical error within the section numbering, where a sequential numbering omission was identified. The update is administrative in nature and is being implemented to ensure document accuracy and consistency of formatting across controlled documents.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 19,
+          "values": [
+            "DCR.2026.017",
+            "2026-06-02",
+            "AHA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "•\tES.SOP.051.F01.V10 - Controlled Drug Stock Check Form\n•\tES.SOP.051.F03.V04 - Approved List of CDs",
+            "The change is to update the Controlled Drug (CD) stock check form and approved CD list to incorporate the new CD powder procured in line with CC.2026.015. ",
+            "This change is required to update the CD Stock Check Form and Approved Controlled Drug List to incorporate the newly approved controlled drug powder introduced under CC.2026.015.\n\nThe existing documentation does not currently include this material and therefore does not fully reflect the current inventory of controlled drugs held on site. Updating the relevant forms is necessary to ensure accurate inventory management, reconciliation and routine stock checking activities in accordance with controlled drug legislation, GMP requirements, and internal procedures.\n\nImplementation of this change will ensure that all controlled drugs are appropriately documented, accounted for, and subject to the same monitoring and traceability controls, which will maintain compliance with regulatory requirements, support data integrity, and reduce the risk of stock discrepancies, omissions or inadequate oversight of controlled drug inventory.",
+            "Completed",
+            "y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 20,
+          "values": [
+            "DCR.2026.018",
+            "2026-06-08",
+            "AM",
+            "AM",
+            "Typo/Corrections",
+            "ES.SOP.022.F07.\nV03",
+            "Update the Variations Limit Table diagram in the Instruction tab to match the corresponding table in the Calculation tab, ensuring consistency across the worksheet.\nUpdate the spreadsheet reference number to the correct CSV number",
+            "This change ensures consistency between the user guidance and the calculation worksheet, reducing the risk of misinterpretation and improving the accuracne of data review. \nTo align with the current document control and numbering system. This change esnures consistency with the latest versioning, avoids duplication with existing references and ensures complisnce of controlled documents.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "N/A",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 21,
+          "values": [
+            "DCR.2026.019",
+            "2026-06-09",
+            "AH",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SPD.011 – \nMidabuc Sampling \nPlan",
+            "To update sampling plan in line with new contract lab for micro testing\nNew sampling plan: 1 x 20ml (Bulk) & 2 x 5ml (Finished Product) for QC Testing, 6 x 5ml (Finished Product) for Assay Homogeneity, 4 x 5ml as retained samples, 4 x 5ml for Micro testing (if required)\nOld sampling plan: 1 x 20ml (Bulk) & 2 x 5ml (Finished Product) for QC Testing, 6 x 5ml (Finished Product) for Assay Homogeneity, 4 x 5ml as retained samples, 2 x 5ml for Micro testing (if required)",
+            "New contract lab for micro testing of controlled drugs (ALS) require a minimum sample volume of 20ml.\nPrevious contract lab (Tentamus) required 10ml of sample.",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "Open DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 22,
+          "values": [
+            "DCR.2026.020",
+            "2026-06-09",
+            "IP",
+            "MR",
+            "Typo/Corrections",
+            "ES1590.V15",
+            "Update the Viscosity range on the BMR to bring in line with material specification of HydroxyEthylCellulose",
+            "The viscosity specification requires updating to accurately reflect the material used during manufacture and to ensure alignment between the approved raw material specification and the Batch Manufacturing Record (BMR). This amendment will remove any ambiguity regarding material suitability, provide clearer guidance to production operators, and reduce the risk of manufacturing delays resulting from discrepancies within the documentation.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 23,
+          "values": [
+            "DCR.2026.021",
+            "2026-06-19",
+            "MR",
+            "MR",
+            "Minor Changes (Non-GMP)",
+            "Internal \nAudit Schedule",
+            "The internal Audit schedule will need to be updated with the following: \nTo push the R&D audit to the end of the year\nto replace the BC Audit with the Altenative area",
+            "The reason for this update is firstly; R&D is undergoing improvement and enhancement to its procedures with regards to formulation development. Thus, auditing this now midway through the updates being conducted would not be of any benefit and would only highlight any deficiencies we are already aware of. for this reason, it is best to shift this to the end of the year where all the enhancements will likely be completed thus an effective review of these enhancements can be conducted as part of the audit. \nThe second reason regarding replacement of the BC Audit is because we have not and currently do not intent to integrate all of our wholesale activity within BC. Thus there would be nothing to audit here. So it is a sensible suggestion to replace this with an audit of an area that has not been audited directly for a while.  ",
+            "Completed",
+            "Y",
+            "MUA",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 24,
+          "values": [
+            "DCR.2026.022",
+            "2026-07-02",
+            "AA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.006.F08 - \nTraining Record",
+            "It is requested that the review period for ES.SOP.006.F08 – Training Record is extended from the current 2-year review cycle to a 5-year review cycle.\n\nThe current version of the form has an issue date of 14OCT24, effective date of 21OCT24 and review date of 21OCT26. The form is used to record staff training against SOP/COM documents, including the version number, date issued, date read, trainee signature, approved by and date approved fields. The form also includes a revision history section, with the previous change recorded as the addition of the form revision history following biennial review. \n\nNo major changes are required to the content, layout or intended use of the form. The only proposed change is to extend the review date to 5 years to better align with the practical use of the form.",
+            "This change is considered minor and administrative only. The form does not define a manufacturing process, testing process, cleaning process, equipment operation or GMP control. It is a controlled template used to document training evidence.\n\nThe current 2-year review cycle can cause the form to expire before associated SOP/COM training records are fully completed or before SOP updates have been closed out. This makes the version update section less efficient, as the form may require a version change even when the form content and intended use remain unchanged.\n\nIt has also been identified that, in some cases, forms have continued to be used after the stated review date to fill training record gaps, based on previous QA advice. This was done to maintain continuity of training records where the form content had not changed. However, this DCR is being raised to formally address the issue and reduce the likelihood of recurrence.\n\nExtending the review period to 5 years will reduce unnecessary administrative version changes, avoid making the training/version update section bulky, and ensure the form remains practical for its intended use.\n\nThere is no impact to product quality, patient safety, training requirements, GMP compliance or data integrity. The form will remain under document control, and any required change identified before the 5-year review date can still be raised through the normal document change process.\nTraining records already completed remain valid, as the information captured by the form has not changed. No retrospective retraining is required.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 25,
+          "values": [
+            "DCR.2026.023",
+            "2026-07-03",
+            "AHA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.LOG.083 - Fire Equipment \nInspection Schedule",
+            "Update the logbook to ensure all inspection locations are included within the logbook",
+            "The logbook requires updating to ensure that all inspection locations are documented which ensures complete traceability of inspection activities, supports accurate record-keeping, and ensures that inspections are performed and recorded in accordance with GMP requirements.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 26,
+          "values": [
+            "DCR.2026.024",
+            "2026-07-08",
+            "MR",
+            "MR",
+            "Minor Changes (Non-GMP)",
+            "External Audit Schedule",
+            "Some minor adjustments in terms of when the audits will be conducted and removing/replacing audits with other suppliers/OAPs",
+            "This change is required to reflect the current external audit plan. Several supplier/OAP audits have been scheduled for the latter part of the year, while others have already been completed, and the audit schedule has been updated accordingly. The Polar Speed audit has been removed from the schedule as a suitable existing audit report has been obtained. This decision has been documented in Risk.2026.016.",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "Open DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 27,
+          "values": [
+            "DCR.2026.025",
+            "2026-07-22",
+            "AHU",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "PRS0239A.V01",
+            "Changes made to Purchase Specification Key Characteristics to include the wider use of the jerrycans for in-house intermediate products.\n\nTamper resistant Red caps has been changed to coloured caps to help differentiate between the products stored in the jerry can.\n\nPRS Updated to the new format.",
+            "This update is an administrative revision to the Purchase Specification to reflect the wider intended use of the 2L HDPE tamper-evident jerrycan for in-house intermediate products and to introduce coloured tamper-evident caps to improve product differentiation and reduce the risk of mix-ups. \n\nThese changes do not change the material specification, product quality, manufacturing process, or regulatory requirements. \n\nTherefore, the proposed changes are documentation updates only and do not require a formal change control.\n",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "Open DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 28,
+          "values": [
+            "DCR.2026.026",
+            "2026-08-07",
+            "AHA",
+            "AHA",
+            "Typo/Corrections",
+            "ES.SOP.250.V02 - Operation, Calibration and\n Maintenance of Mettler Toledo SD23 pH and Conductivity Meter",
+            "correction of review date from 2026 to 2028",
+            "The review date will be corrected from 2026 to 2028 to rectify a typographical error. This update will ensure the SOP accurately reflects the approved document review schedule and maintains the integrity and accuracy of the controlled documentation system. No other changes to the process or procedure have been identified to necessitate further revision of the SOP at this time.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 29,
+          "values": [
+            "DCR.2026.027",
+            "2026-08-11",
+            "AH",
+            "AHA",
+            "Typo/Corrections",
+            "PRS0139A &\n PRS0064A",
+            "Change raw material type from excipient to API, for both substances.",
+            "The incorrect material type boxes have been checked when the documents were created and were not detected during the checking process.",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "E-Copy",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 30,
+          "values": [
+            "DCR.2026.028",
+            "2026-08-21",
+            "MR",
+            "MR",
+            "Typo/Corrections",
+            "ES.SOP.277.F01",
+            "Update to include correct review date",
+            "The review date is currently incorrect and replicates the effective date. This needs to be updated for document control purposes to allow timely review of document",
+            "Completed",
+            "Y",
+            "MUA",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 31,
+          "values": [
+            "DCR.2026.029",
+            "2026-08-25",
+            "AH",
+            "",
+            "Other",
+            "ES.QCM.001, ES.QCM.002",
+            "Change Description –\nPage 2: Change method reference to ES.QCM.002.V from ES.QCM.001.V\nPage 5: Change Acetic Acid Assay to % from mg/ml\nPage 8: Change Aluminium Assay to % from mg/ml and increase length of line for manual calculations",
+            "Changes are amendments to minor typographical errors and do not affect how the results are calculated",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "E-Copy",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 32,
+          "values": [
+            "DCR.2026.030",
+            "2026-08-25",
+            "HK",
+            "HK",
+            "Typo/Corrections",
+            "ES.LOG.012.V05 - Grade D \n- GMP Entry Log",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "E-Copy",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 33,
+          "values": [
+            "DCR.2026.031",
+            "2026-08-28",
+            "AHA",
+            "AHA",
+            "Minor Changes (Non-GMP)",
+            "ES.SOP.050.V09 - OPERATION, CALIBRATION AND \nMAINTENANCE OF THE JENWAY 3520 pH METER",
+            "The above SOP will be updated to accommodate for the new pH calibration logbook will now be used instead of the previously used form, ES.SOP.050.F01.V05 - Jenway 3520 pH Meter Calibration, which will be made obsolete.",
+            "The change is required to ensure that the applicable SOP accurately reflects the revised method for documenting pH meter calibration activities. A dedicated pH calibration logbook will replace the current form, ES.SOP.050.F01.V05 – Jenway 3520 pH Meter Calibration, which will subsequently be made obsolete.\n\nThe implementation of the logbook will provide a controlled and consistent method for recording calibration activities, improve traceability of calibration records, and ensure that the documentation process remains aligned with current operational practice and GMP documentation requirements. Updating the SOP is therefore necessary to maintain consistency between the approved procedure and the records used to demonstrate completion of calibration activities.",
+            "Completed",
+            "Y",
+            "MR",
+            "Y",
+            "Closed DCR File",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 34,
+          "values": [
+            "DCR.2026.032",
+            "2026-09-01",
+            "AM",
+            "AM",
+            "Other",
+            "ES.LOG.047.v03\nES.LOG.056.v03",
+            "Logbook formatting changed to split columns for Time, Date, signed by, checked by and batch number. ",
+            "The changes to the logbook templates are made to streamline the use of the logbooks and ensure they are user friendly. ",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "E-Copy",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "row": 35,
+          "values": [
+            "DCR.2026.033",
+            "2026-09-08",
+            "AHA",
+            "AHA",
+            "Other",
+            "ES.LOG.051.V03\nES.LOG.057.V03\nES.LOG.060.V03\nES.LOG.062.V03\nES.LOG.063.V03",
+            "Logbook formatting changed to split columns for Time, Date, signed by, checked by and batch number. ",
+            "The changes to the logbook templates are made to streamline the use of the logbooks and ensure they are user friendly. ",
+            "In-Progress",
+            "",
+            "",
+            "",
+            "E-Copy",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

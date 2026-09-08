@@ -1,0 +1,2637 @@
+{
+  "file": "2. Metrics Review Apr - Jun 26 NEW FORMAT.pptx",
+  "width": 12192000,
+  "height": 6858000,
+  "slides": [
+    {
+      "slide": 1,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 5937591,
+          "top": 388276,
+          "width": 5969705,
+          "height": 1508760,
+          "text": "Quality Metrics review (QMR)"
+        },
+        {
+          "index": 2,
+          "name": "Subtitle 2",
+          "type": "TEXT_BOX (17)",
+          "left": 6067036,
+          "top": 2724408,
+          "width": 5710814,
+          "height": 601597,
+          "text": "Review Period: Apr - Jun (Q2) 2026\n"
+        },
+        {
+          "index": 3,
+          "name": "Group 8",
+          "type": "GROUP (6)",
+          "left": -6703,
+          "top": 307892,
+          "width": 5710814,
+          "height": 5674497,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 16",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 18",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 1041062,
+          "top": 774550,
+          "width": 2696285,
+          "height": 5443369,
+          "text": "QMR\u000bKEY"
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 20",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 5,
+          "name": "Content Placeholder 3",
+          "type": "PLACEHOLDER (14)",
+          "left": 4380813,
+          "top": 181567,
+          "width": 6288088,
+          "height": 3732304,
+          "text": "Overall QMS Status: 🟢- In control / 🟠- Improvement needed / 🔴- Out of control\nKPI Trend & Assessment level: 🟢- Improving / 🟠- Stable / 🔴- Deteriorating\nClassifications:      - Minor /      - Major /      - Critical\nTarget date adherence:      - Completed within target date /      - Overdue or completed past target date\n\n"
+        },
+        {
+          "index": 6,
+          "name": "Oval 4",
+          "type": "AUTO_SHAPE (1)",
+          "left": 6302475,
+          "top": 1779638,
+          "width": 285139,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Oval 5",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7593680,
+          "top": 1779638,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Oval 6",
+          "type": "AUTO_SHAPE (1)",
+          "left": 8875049,
+          "top": 1779638,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "index": 9,
+          "name": "Oval 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7282688,
+          "top": 2256175,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Oval 7",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5143938,
+          "top": 2558970,
+          "width": 275303,
+          "height": 294968,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 4118310,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟢- Improving "
+        },
+        {
+          "index": 9,
+          "name": "Chart 4",
+          "type": "CHART (3)",
+          "left": 4059079,
+          "top": 3757847,
+          "width": 8132919,
+          "height": 3090104,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Chart 5",
+          "type": "CHART (3)",
+          "left": 4059078,
+          "top": 449825,
+          "width": 8132919,
+          "height": 3297973,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "index": 5,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "index": 6,
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3424750,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 4607208,
+          "width": 11101645,
+          "height": 1241410,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "index": 5,
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4479045,
+          "top": -38524,
+          "width": 7292987,
+          "height": 588271,
+          "text": "IDENTIFIED ROOT CAUSE TRENDS (Q2)"
+        },
+        {
+          "index": 6,
+          "name": "Picture 7",
+          "type": "PICTURE (13)",
+          "left": 719329,
+          "top": 3696199,
+          "width": 11472670,
+          "height": 3162755,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Picture 5",
+          "type": "PICTURE (13)",
+          "left": 719329,
+          "top": 518385,
+          "width": 11472670,
+          "height": 3189299,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 2155106,
+          "top": 1664330,
+          "width": 848518,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "index": 9,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 2155107,
+          "top": 2889754,
+          "width": 805058,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5966012,
+          "top": 919006,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "index": 11,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5991059,
+          "top": 2680265,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "index": 12,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5479156,
+          "top": 2598185,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        },
+        {
+          "index": 13,
+          "name": "Ellips 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5433476,
+          "top": 1847896,
+          "width": 593109,
+          "height": 218593,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "DEVIATIONS"
+        },
+        {
+          "index": 5,
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": -10289,
+          "width": 3339751,
+          "height": 1077218,
+          "text": "TREND \nANALYSIS"
+        },
+        {
+          "index": 6,
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 3706760,
+          "top": 2671,
+          "width": 8485239,
+          "height": 6663667,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 780710,
+          "top": 1140514,
+          "width": 2926051,
+          "height": 5509200,
+          "text": "Systemic themes identified: \n\nMultiple equipment fault root causes have been assigned in various deviation areas. \nThe primary theme of these equipment faults seem to be wear and tear of older equipment and prolonged usage\n\nFurther actions: \n\nNo further action is required based on this analysis. Equipment is being systematically replaced where it is warranted. \nAs stated in the table there is no escalation required or regulatory impact "
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3749118,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟢- Improving "
+        },
+        {
+          "index": 9,
+          "name": "Chart 2",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 449826,
+          "width": 8132919,
+          "height": 3293804,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 3743630,
+          "width": 8132920,
+          "height": 3114370,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "index": 5,
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101642,
+          "height": 3209998,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 4905691,
+          "width": 11101645,
+          "height": 1241410,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4479045,
+          "top": -38524,
+          "width": 7292987,
+          "height": 588271,
+          "text": "IDENTIFIED ROOT CAUSE TRENDS (Q2)"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        },
+        {
+          "index": 6,
+          "name": "Picture 9",
+          "type": "PICTURE (13)",
+          "left": 719328,
+          "top": 3776870,
+          "width": 11472671,
+          "height": 3087264,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Picture 13",
+          "type": "PICTURE (13)",
+          "left": 729267,
+          "top": 548115,
+          "width": 11472672,
+          "height": 3252430,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Oval 14",
+          "type": "AUTO_SHAPE (1)",
+          "left": 11489635,
+          "top": 1480930,
+          "width": 750565,
+          "height": 318053,
+          "text": ""
+        },
+        {
+          "index": 9,
+          "name": "Oval 16",
+          "type": "AUTO_SHAPE (1)",
+          "left": 11462733,
+          "top": 3269972,
+          "width": 750565,
+          "height": 318053,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 2",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": -10289,
+          "width": 3339751,
+          "height": 1077218,
+          "text": "TREND \nANALYSIS"
+        },
+        {
+          "index": 5,
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 3706760,
+          "top": 2671,
+          "width": 9328724,
+          "height": 6866476,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 780710,
+          "top": 1140514,
+          "width": 2926051,
+          "height": 2062103,
+          "text": "Systemic themes identified:\n \n\nFurther actions: \nNo further actions required. No product defect issues or quality concerns.\n"
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 3",
+          "type": "AUTO_SHAPE (1)",
+          "left": 48202,
+          "top": 224912,
+          "width": 622927,
+          "height": 6302478,
+          "text": "GMP COMPLAINTS"
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 102960,
+          "top": 224912,
+          "width": 513410,
+          "height": 6302478,
+          "text": "SUPPLIER COMPLAINTS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3749118,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 634047,
+          "top": 4884174,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "index": 9,
+          "name": "TextBox 4",
+          "type": "TEXT_BOX (17)",
+          "left": 4224599,
+          "top": 6081290,
+          "width": 7816645,
+          "height": 707886,
+          "text": "No Major or Critical items to report "
+        },
+        {
+          "index": 10,
+          "name": "Chart 5",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 449825,
+          "width": 8132919,
+          "height": 2800271,
+          "text": ""
+        },
+        {
+          "index": 11,
+          "name": "Chart 6",
+          "type": "CHART (3)",
+          "left": 4059080,
+          "top": 3250096,
+          "width": 8132919,
+          "height": 2762370,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -113348,
+          "top": 224912,
+          "width": 988219,
+          "height": 6302478,
+          "text": "OOT/OOS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 4418972,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 5256232,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "index": 9,
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 406584,
+          "width": 8132919,
+          "height": 6451416,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 719328,
+          "top": 33726,
+          "width": 3355136,
+          "height": 523220,
+          "text": "SIGNIFICANT ITEMS"
+        },
+        {
+          "index": 5,
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 716875,
+          "top": 542728,
+          "width": 11475125,
+          "height": 2311900,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 719327,
+          "top": 2923158,
+          "width": 11470220,
+          "height": 1025891,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": -113348,
+          "top": 224912,
+          "width": 988219,
+          "height": 6302478,
+          "text": "OOT/OOS"
+        },
+        {
+          "index": 8,
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 719329,
+          "top": 4552277,
+          "width": 11470220,
+          "height": 2305723,
+          "text": ""
+        },
+        {
+          "index": 9,
+          "name": "TextBox 3",
+          "type": "TEXT_BOX (17)",
+          "left": 4074464,
+          "top": 3989053,
+          "width": 8117536,
+          "height": 523220,
+          "text": "PERFORMANCE AND PRODUCT QUALITY ANALYSIS"
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "CAPAs"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "index": 9,
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4053581,
+          "top": 381001,
+          "width": 8138419,
+          "height": 3742092,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 4053580,
+          "top": 4123090,
+          "width": 8138419,
+          "height": 2743200,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -61380,
+          "top": -2,
+          "width": 842090,
+          "height": 6847953,
+          "text": "CAPAs"
+        },
+        {
+          "index": 5,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "index": 6,
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842091,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3069236,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842091,
+          "top": 3861635,
+          "width": 11101645,
+          "height": 1241410,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 842088,
+          "top": 5199872,
+          "width": 11101642,
+          "height": 807638,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 68824,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 622927,
+          "height": 6847953,
+          "text": "CHANGE CONTROLS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "index": 9,
+          "name": "Chart 3",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 381001,
+          "width": 8132919,
+          "height": 3742091,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 4053581,
+          "top": 4123093,
+          "width": 8138418,
+          "height": 2724860,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "index": 5,
+          "name": "Table 16",
+          "type": "TABLE (19)",
+          "left": 865336,
+          "top": 4160430,
+          "width": 11177628,
+          "height": 979170,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 17",
+          "type": "TABLE (19)",
+          "left": 865337,
+          "top": 584775,
+          "width": 11177628,
+          "height": 3564285,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 849042,
+          "top": 5182623,
+          "width": 11204555,
+          "height": 906728,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 622927,
+          "height": 6847953,
+          "text": "CHANGE CONTROLS"
+        },
+        {
+          "index": 9,
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 849042,
+          "top": 6132374,
+          "width": 11193922,
+          "height": 570850,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 4059080,
+          "top": 99304,
+          "width": 8132919,
+          "height": 312177,
+          "text": "TREND GRAPHS"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 549894,
+          "height": 6858002,
+          "text": "RISK ASSESSMENTS"
+        },
+        {
+          "index": 6,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 0,
+          "width": 3339751,
+          "height": 688258,
+          "text": "KPI Summary"
+        },
+        {
+          "index": 7,
+          "name": "Content Placeholder 3",
+          "type": "TABLE (19)",
+          "left": 820038,
+          "top": 688258,
+          "width": 3127336,
+          "height": 3434834,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 713830,
+          "top": 4559709,
+          "width": 3339751,
+          "height": 1418303,
+          "text": "KPI & Trend Assessment: \n\n🟠- Stable"
+        },
+        {
+          "index": 9,
+          "name": "Chart 2",
+          "type": "CHART (3)",
+          "left": 4048083,
+          "top": 449826,
+          "width": 8143917,
+          "height": 3663220,
+          "text": ""
+        },
+        {
+          "index": 10,
+          "name": "Table 3",
+          "type": "TABLE (19)",
+          "left": 4053581,
+          "top": 4123093,
+          "width": 8138418,
+          "height": 2734909,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 4224963,
+          "top": 0,
+          "width": 7815918,
+          "height": 584775,
+          "text": "SIGNIFICANT ITEMS (MAJOR & CRITICAL)"
+        },
+        {
+          "index": 5,
+          "name": "Group 6",
+          "type": "GROUP (6)",
+          "left": 842090,
+          "top": 695572,
+          "width": 11101643,
+          "height": 3462767,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 842090,
+          "top": 4481759,
+          "width": 11101645,
+          "height": 1241410,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 2",
+          "type": "AUTO_SHAPE (1)",
+          "left": 46774,
+          "top": -2,
+          "width": 549894,
+          "height": 6858002,
+          "text": "RISK ASSESSMENTS"
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -67626,
+          "top": -2,
+          "width": 842090,
+          "height": 6858002,
+          "text": "RECALLS"
+        },
+        {
+          "index": 5,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 1665975,
+          "width": 2257787,
+          "height": 5192023,
+          "text": "QUETIAPINE Recall Summary, outcome & impact"
+        },
+        {
+          "index": 6,
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 2990952,
+          "top": 0,
+          "width": 9201048,
+          "height": 1669312,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 11",
+          "type": "TABLE (19)",
+          "left": 2990953,
+          "top": 1676606,
+          "width": 2718731,
+          "height": 5181392,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Title 1",
+          "type": "TEXT_BOX (17)",
+          "left": 719329,
+          "top": 1,
+          "width": 2271623,
+          "height": 1669312,
+          "text": "Summary of all recalls (Q1)"
+        },
+        {
+          "index": 9,
+          "name": "TextBox 17",
+          "type": "TEXT_BOX (17)",
+          "left": 5723521,
+          "top": 1687240,
+          "width": 6468478,
+          "height": 2308324,
+          "text": "Recall Outcome & Key learning: \nAll affected product was successfully traced and reconciled.\nNo loss of product accountability was identified.\nRecall objectives were achieved within the required timeframe.\nLimitations within BC regarding tracing product distribution and generating reconciliation data. \nManual investigation and additional resource effort to identify product destination and complete reconciliation. "
+        },
+        {
+          "index": 10,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 5723520,
+          "top": 3995564,
+          "width": 6468478,
+          "height": 2862437,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "RETURNS & REJECTED BATCHES"
+        },
+        {
+          "index": 5,
+          "name": "Table 18",
+          "type": "TABLE (19)",
+          "left": 719329,
+          "top": 3267139,
+          "width": 4845724,
+          "height": 2286000,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 719329,
+          "top": -4,
+          "width": 4845724,
+          "height": 523220,
+          "text": "Product Returns Summary"
+        },
+        {
+          "index": 7,
+          "name": "Table 27",
+          "type": "TABLE (19)",
+          "left": 715329,
+          "top": 518160,
+          "width": 4849724,
+          "height": 2743200,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 723329,
+          "top": 5553138,
+          "width": 4841724,
+          "height": 1304862,
+          "text": ""
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 1",
+          "type": "AUTO_SHAPE (1)",
+          "left": 5565053,
+          "top": 0,
+          "width": 6626946,
+          "height": 523220,
+          "text": "Rejected Batches Summary"
+        },
+        {
+          "index": 10,
+          "name": "Table 32",
+          "type": "TABLE (19)",
+          "left": 5565052,
+          "top": 518362,
+          "width": 6626945,
+          "height": 2133600,
+          "text": ""
+        },
+        {
+          "index": 11,
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 5565049,
+          "top": 2651962,
+          "width": 6626945,
+          "height": 2194560,
+          "text": ""
+        },
+        {
+          "index": 12,
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 5565044,
+          "top": 4846522,
+          "width": 6626944,
+          "height": 2011478,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "CONTROLLED DOCUMENTS"
+        },
+        {
+          "index": 5,
+          "name": "Table 5",
+          "type": "TABLE (19)",
+          "left": 824410,
+          "top": 220775,
+          "width": 11117492,
+          "height": 2420754,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 6",
+          "type": "TABLE (19)",
+          "left": 822871,
+          "top": 2774340,
+          "width": 11130321,
+          "height": 1309318,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 7",
+          "type": "TABLE (19)",
+          "left": 811581,
+          "top": 4216469,
+          "width": 11130321,
+          "height": 867878,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -92251,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "ENVIRONMENTAL MONITORING"
+        },
+        {
+          "index": 5,
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 719328,
+          "top": 0,
+          "width": 6721603,
+          "height": 5363889,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 3",
+          "type": "TABLE (19)",
+          "left": 7440930,
+          "top": 2,
+          "width": 4751069,
+          "height": 5394807,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Table 4",
+          "type": "TABLE (19)",
+          "left": 719327,
+          "top": 5363888,
+          "width": 11472671,
+          "height": 1494109,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 24,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -59593,
+          "top": 0,
+          "width": 842090,
+          "height": 6858002,
+          "text": "VALIDATION"
+        },
+        {
+          "index": 5,
+          "name": "Table 5",
+          "type": "TABLE (19)",
+          "left": 719328,
+          "top": 0,
+          "width": 11472671,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Content Placeholder 2",
+          "type": "TEXT_BOX (17)",
+          "left": 4687208,
+          "top": 385280,
+          "width": 6891428,
+          "height": 6087438,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": -103137,
+          "top": 0,
+          "width": 915122,
+          "height": 6858002,
+          "text": "AUDITS"
+        },
+        {
+          "index": 5,
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 719330,
+          "top": 0,
+          "width": 5376670,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 6096000,
+          "top": 0,
+          "width": 6095988,
+          "height": 6858000,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 8",
+          "type": "AUTO_SHAPE (1)",
+          "left": 1,
+          "top": -2,
+          "width": 12191998,
+          "height": 6858002,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 10",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 4059080,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 12",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 719329,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 79743,
+          "top": 0,
+          "width": 549894,
+          "height": 6858002,
+          "text": "REGULATORY CHANGES"
+        },
+        {
+          "index": 5,
+          "name": "Table 30",
+          "type": "TABLE (19)",
+          "left": 719330,
+          "top": 0,
+          "width": 5376670,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Table 2",
+          "type": "TABLE (19)",
+          "left": 6096000,
+          "top": 0,
+          "width": 6095988,
+          "height": 6858000,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 1202919,
+          "top": 284176,
+          "width": 9784080,
+          "height": 1508760,
+          "text": "CBPM updates JAN – MAR 26"
+        },
+        {
+          "index": 2,
+          "name": "Content Placeholder 2",
+          "type": "PLACEHOLDER (14)",
+          "left": 546755,
+          "top": 1880423,
+          "width": 11381541,
+          "height": 4977577,
+          "text": "10 February 2026: Home Office Schedule 1 licence variation application submitted. \n17 March 2026: Home Office compliance visit completed successfully. The application is progressing positively, with licence approval expected. Focus is now moving towards MHRA inspection readiness. \nAttendance booked for the Cannabis Europa Conference on 26–27 May 2026.\n\n"
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Title 12",
+          "type": "PLACEHOLDER (14)",
+          "left": 1783797,
+          "top": 9824,
+          "width": 8624405,
+          "height": 621547,
+          "text": "Production Capacity Utilisation"
+        },
+        {
+          "index": 2,
+          "name": "Table 1",
+          "type": "TABLE (19)",
+          "left": 0,
+          "top": 631371,
+          "width": 7152312,
+          "height": 6216806,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7152311,
+          "top": 791450,
+          "width": 5039687,
+          "height": 5447645,
+          "text": "Key take aways from Q1:\n\nNumbers do not reflect stock batches on a given day (not released same day).\n\nProduction continues to operate at authorised manufacturing capacity.\n\nReduces the likelihood of manufacturing deviations as there is less pressure on GMP systems\n\nReflects mixed production scheduling i.e. between stock batch manufacturing and bespoke product manufacturing\n\nImprovement for Q2: To include all Stock batches generated for the given day. This will provide a more accurate reflection of production capacity. "
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 9",
+          "type": "AUTO_SHAPE (1)",
+          "left": 3048,
+          "top": 2059012,
+          "width": 12188952,
+          "height": 1828800,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 11",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7540358,
+          "top": 0,
+          "width": 4651642,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7534551,
+          "top": 2054942,
+          "width": 4657449,
+          "height": 1828799,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Title 12",
+          "type": "PLACEHOLDER (14)",
+          "left": 7865806,
+          "top": 2194560,
+          "width": 4001729,
+          "height": 1739347,
+          "text": "Event logging \u000bJan – mar 26"
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 7540358,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Graphic 4",
+          "type": "PICTURE (13)",
+          "left": 536094,
+          "top": 1325339,
+          "width": 6453222,
+          "height": 4207321,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "TextBox 5",
+          "type": "TEXT_BOX (17)",
+          "left": 2871503,
+          "top": 5532660,
+          "width": 1797352,
+          "height": 738664,
+          "text": "Total Events = 50\n\nAvg. p/month = ~16"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Rectangle 27",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 0,
+          "width": 12192000,
+          "height": 6858000,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 29",
+          "type": "AUTO_SHAPE (1)",
+          "left": 0,
+          "top": 426198,
+          "width": 12192000,
+          "height": 6005604,
+          "text": ""
+        },
+        {
+          "index": 3,
+          "name": "Graphic 6",
+          "type": "PICTURE (13)",
+          "left": 165660,
+          "top": 3416602,
+          "width": 3666601,
+          "height": 2481738,
+          "text": ""
+        },
+        {
+          "index": 4,
+          "name": "Graphic 4",
+          "type": "PICTURE (13)",
+          "left": 165660,
+          "top": 561176,
+          "width": 4305137,
+          "height": 2321964,
+          "text": ""
+        },
+        {
+          "index": 5,
+          "name": "Graphic 2",
+          "type": "PICTURE (13)",
+          "left": 3949928,
+          "top": 3416600,
+          "width": 3553583,
+          "height": 2481737,
+          "text": ""
+        },
+        {
+          "index": 6,
+          "name": "Graphic 5",
+          "type": "PICTURE (13)",
+          "left": 7633005,
+          "top": 3638034,
+          "width": 4298062,
+          "height": 1913562,
+          "text": ""
+        },
+        {
+          "index": 7,
+          "name": "Chart",
+          "type": "CHART (3)",
+          "left": 4703572,
+          "top": 561176,
+          "width": 2989694,
+          "height": 2481737,
+          "text": ""
+        },
+        {
+          "index": 8,
+          "name": "Chart",
+          "type": "CHART (3)",
+          "left": 7926041,
+          "top": 802746,
+          "width": 4005026,
+          "height": 2240167,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 0,
+          "top": 3587,
+          "width": 12192000,
+          "height": 747182,
+          "text": "Executive Summary (QMS Health Overview)"
+        },
+        {
+          "index": 2,
+          "name": "TextBox 4",
+          "type": "TEXT_BOX (17)",
+          "left": 0,
+          "top": 646799,
+          "width": 6802734,
+          "height": 523220,
+          "text": "Overall QMS Status: 🟢 – In control"
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 11",
+          "type": "AUTO_SHAPE (1)",
+          "left": 99237,
+          "top": 1098364,
+          "width": 11993526,
+          "height": 2308324,
+          "text": "Quarter Summary\nThe Pharmaceutical Quality System remained stable and effective throughout the review period. Review of quality metrics indicates no adverse trends requiring escalation or additional management intervention.\n\nKey observations include:\nNo emerging trends identified within deviations, complaints, OOS/OOT investigations or returned products.\nCAPAs continue to be completed within established timeframes, with no significant backlog observed.\nExtensions for Change Controls and Risk Assessments remain low.\nOverall document closure performance remains satisfactory, all documents completed within their assigned due dates.\nNo overdue quality records of significant regulatory or business concern were identified during the review period."
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "type": "AUTO_SHAPE (1)",
+          "left": 99237,
+          "top": 3451313,
+          "width": 8130363,
+          "height": 3046988,
+          "text": "Key Risks\n\nBusiness Central (BC) Recall Traceability & Reconciliation\nCurrent Risk Level: Medium\nProposed Actions:\nTargeted QA training focused on product traceability and recall functionality within BC\nReview whether required information for recall management can be obtained through a single reporting process.\nAssess opportunities to improve reporting functionality and reduce reliance on manual data extraction.\nVerify effectiveness during a future mock recall and traceability activities.\n\nControlled Document Backlog\nCurrent Risk Level: Low-Medium\nProposed Actions:\nContinue prioritisation of overdue document review activities.\nMonitor backlog reduction through routine Quality Management review.\nEscalate resource requirements if progress stalls."
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 15",
+          "type": "AUTO_SHAPE (1)",
+          "left": 7935776,
+          "top": 3485660,
+          "width": 4156987,
+          "height": 2369880,
+          "text": "Key Improvements Achieved\n\nSuccessful management and closure of Quetiapine recall, with full product accountability and reconciliation achieved.\nSignificant enhancement of the Scientific Rationale process, strengthening GMP decision-making and regulatory compliance.\nContinued reduction in overdue controlled documentation.\nNo Manufacturing rejected batches recorded during the review period."
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "shapes": [
+        {
+          "index": 1,
+          "name": "Picture 3",
+          "type": "PICTURE (13)",
+          "left": 21,
+          "top": 10,
+          "width": 12191980,
+          "height": 6857991,
+          "text": ""
+        },
+        {
+          "index": 2,
+          "name": "Title 1",
+          "type": "PLACEHOLDER (14)",
+          "left": 365760,
+          "top": 2166365,
+          "width": 11471565,
+          "height": 1739347,
+          "text": "Any Questions? "
+        }
+      ]
+    }
+  ]
+}
